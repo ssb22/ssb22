@@ -1,7 +1,7 @@
 # CV
 Part-time roles only for medical reasons.
 * My track record demonstrates part-time achievement *is* possible
-* but I've had 6-figure offers rescinded after hiring managers mistakenly thought C-suite could accept this limitation.  To avoid wasting everyone’s time, please ensure your company can *genuinely* accommodate part-time work before initiating a lengthy interview process.  I am upfront about this limitation: no amount of compensation can alter my medical needs.  Thank you for your understanding.
+* but I've had 6-figure offers rescinded after hiring managers mistakenly thought C-suite could accept this limitation.  To avoid wasting everyone’s time, please ensure your company can *genuinely* accommodate part-time work before initiating a lengthy interview process.  I am upfront about this: no amount of compensation can alter my medical needs.  Thank you for your understanding.
 
 **Cambridge University: Computer Science supervisor** (2001-2025). Tutored small groups in architecture, compiler construction, concurrent systems, data structures, functional programming, Hoare logic, HCI, natural language processing, networking, operating systems, Prolog, security, type theory and VLSI. Includes special-needs tuition and advocacy/coaching.
 
