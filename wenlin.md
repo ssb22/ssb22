@@ -1,4 +1,6 @@
 
+from https://ssb22.user.srcf.net/gradint/wenlin3.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/gradint/wenlin3.html) just in case)
+
 # Wenlin improvements
 
 In mid-2009 [Wenlin Institute](http://www.wenlin.com/) kindly allowed me access to their C source code and I was able to add features such as:
@@ -9,7 +11,7 @@ Also, pinyin can be **placed over hanzi** (like Ruby markup) in:
    * Lilypond lyrics
    * HTML (with popup definitions)
    * .odt document (in Wenlin 4.0.2+) that OpenOffice/LibreOffice can convert to Word 97
-   * ![wenlin41.png](https://ssb22.user.srcf.net/home/ubuntu/homepage/gradint/wenlin41.png)Wenlin’s own window (4.1+)
+   * ![wenlin41.png](https://ssb22.user.srcf.net/gradint/wenlin41.png)Wenlin’s own window (4.1+)
    * LyX 2/XeTeX document (Wenlin 4.1+)
 
 or beside hanzi in a text-only “column” format for PDAs etc. Pinyin can be omitted when the word is made up of hanzi you know. “Make transformed copy” and “Find Fix:” now have shortcut keys too, and transcription runs faster. 4.1+ can also transcribe into Chinese Braille, and can automatically make sandhi changes for ‘yi’ and ‘bu’ pinyin.
@@ -31,7 +33,7 @@ or beside hanzi in a text-only “column” format for PDAs etc. Pinyin can be o
     * the conversion bar now appears where the Wenlin window is, instead of always at the top of the desktop which can drag a magnified viewport around too much and cause window-selection problems in flwm
     * Wenlin now supports smaller windows, and makes it more obvious how many lines the instant lookup area has when you’re resizing it; 4.1+ can omit the title row and 4.2+ has a customisable toolbar
     * the maximum phrase length is automatically adjusted according to available space in instant lookup
-11. Windows Mobile version (runs on [WM](https://ssb22.user.srcf.net/home/ubuntu/homepage/wm/) 6.0 or earlier, with or without touchscreen; can also be built for 6.1/6.5 if you have a MSVS9 license). The WM version installs a shortcut to “open Wenlin and paste the clipboard contents”, optionally as a hanzi+pinyin column, and adds a built-in quota counter for writing Chinese SMS messages.
+11. Windows Mobile version (runs on [WM](https://ssb22.user.srcf.net/wm/) 6.0 or earlier, with or without touchscreen; can also be built for 6.1/6.5 if you have a MSVS9 license). The WM version installs a shortcut to “open Wenlin and paste the clipboard contents”, optionally as a hanzi+pinyin column, and adds a built-in quota counter for writing Chinese SMS messages.
 12. Option to compile for pre-Win2K systems (like the original Libretto), and to compile command-line transformations (for “add pinyin” CGIs etc) and command-line dictionary maintenance
 13. Autosave and recovery
 14. 4.1+ also has a clipboard watcher (can be used to script an integration with Pidgin IM etc), and can read Rich Text from the clipboard
@@ -626,7 +628,7 @@ Code:
 ```
 ## Exporting to LaTeX
 
-See also my more-recent [ohi_latex script](https://ssb22.user.srcf.net/home/ubuntu/homepage/gradint/ohi.html#tex), which supports more symbols than the method below but may require soft hyphens (U+AD) to be placed between pinyin syllables.
+See also my more-recent [ohi_latex script](https://ssb22.user.srcf.net/gradint/ohi.html#tex), which supports more symbols than the method below but may require soft hyphens (U+AD) to be placed between pinyin syllables.
 
 Old method follows:
 
@@ -674,7 +676,7 @@ Again, upgrading your TeX distribution should avoid the need for such workaround
 Wenlin can print its entry for a single hanzi, including the pictorial parts. If you want to do this for large numbers of hanzi at a time, **for personal use only** (for example to load them onto a PDA for viewing on a journey), then the following script may be useful. It is currently Windows only, and the setup is slightly complex as it relies on sending keystrokes to Wenlin.
 1. Install CutePDF and set it as the default printer. Make sure its output files go to your home directory (this should happen by default if you haven’t changed it).
 2. Set Wenlin to print your desired number of characters per line. If the “printout” is to be on a PDA then you might want to make this quite small, by increasing the font size and reducing Wenlin’s window size, and you can also set 0 margins and no page numbers in Page Setup.
-3. Create a Wenlin buffer containing all the characters you want information on, without line breaks or spaces, in editable mode and with the cursor placed at the beginning. For example if you want the characters from [charlearn](https://ssb22.user.srcf.net/home/ubuntu/homepage/gradint/charlearn.html)’s `characters.txt` you can do
+3. Create a Wenlin buffer containing all the characters you want information on, without line breaks or spaces, in editable mode and with the cursor placed at the beginning. For example if you want the characters from [charlearn](https://ssb22.user.srcf.net/gradint/charlearn.html)’s `characters.txt` you can do
 
 Code:
 ```
@@ -742,3 +744,14 @@ for P in 0.pdf [1-9]*.pdf; do
 ```
 and remember to set got_extra to 1 in flashcards.html so that they will display.
 
+Copyright and Trademarks:
+All material © Silas S. Brown unless otherwise stated.
+CJK was a registered trademark of The Research Libraries Group, Inc. and subsequently OCLC, but I believe the trademark has expired.
+Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
+Python is a trademark of the Python Software Foundation.
+TeX is a trademark of the American Mathematical Society.
+Unicode is a registered trademark of Unicode, Inc. in the United States and other countries.
+Unix is a trademark of The Open Group.
+Wenlin is a trademark of Wenlin Institute, Inc. SPC.
+Windows is a registered trademark of Microsoft Corp.
+Any other [trademarks](https://ssb22.user.srcf.net/trademarks.html) I mentioned without realising are trademarks of their respective holders.
