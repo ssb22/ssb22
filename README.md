@@ -1,1 +1,1 @@
-[CV](CV.md) | [consciousness, blindsight etc](blindsight.md) | [poetry & translation](poetry.md) | [中文介绍](https://ssb22.user.srcf.net/index-zh.html)
+[CV](/ssb22/ssb22/blob/main/CV.md) | [consciousness, blindsight etc](/ssb22/ssb22/blob/main/blindsight.md) | [poetry & translation](/ssb22/ssb22/blob/main/poetry.md) | [中文介绍](https://ssb22.user.srcf.net/index-zh.html)
