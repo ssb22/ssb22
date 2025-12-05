@@ -1,0 +1,10 @@
+# Poetry & translation
+* [Rhyming translation of Xu Zhimo's Leaving Cambridge poem](https://ssb22.user.srcf.net/poem/)
+  * [Getty Images copied my words without permission](getty.md)
+  * [简体中文笔记](https://ssb22.user.srcf.net/poem/index-zh.html) and [繁體中文筆記](https://ssb22.user.srcf.net/poem/index-zhf.html)
+  * [Why it's NOT about Lin Huiyin](huiyin.md)
+* [Minmin's reply to Xu Zhimo](https://ssb22.user.srcf.net/poem/minmin.html)
+* [River Snow](https://ssb22.user.srcf.net/poem/jiangxue.html)
+* [Poe's Raven annotated for Chinese readers](https://ssb22.user.srcf.net/poem/raven.html)
+* [Elgar Op.74 scanned score and notes](op74.md)
+* [If We Only Understood poem](hanlon.md)
