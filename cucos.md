@@ -3,7 +3,7 @@ from https://ssb22.user.srcf.net/old-ccs/cucos.html (also [mirrored on GitLab Pa
 
 # Chinese music and CUCOS
 
-The next concert is **tomorrow** (Saturday 6<sup>th</sup> December) 7:30pm at West Road Concert Hall, in conjunction with the Gamelan Society. This event is ticketed to cover expenses.
+The next concert is **tonight** (Saturday 6<sup>th</sup> December) 7:30pm at West Road Concert Hall, in conjunction with the Gamelan Society. [This event is ticketed](https://www.cmp.cam.ac.uk/events/event/item/chineseorchestrajavanesegamelan/) to cover expenses.
 
 In 2002 a Chinese visiting scholar who was returning to China gave me a CD called “The Essence of Traditional Chinese Music (中國民樂大全) vol.3”.
 
