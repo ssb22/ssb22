@@ -3,8 +3,6 @@ from https://ssb22.user.srcf.net/old-ccs/cucos.html (also [mirrored on GitLab Pa
 
 # Chinese music and CUCOS
 
-The next concert is **tonight** (Saturday 6<sup>th</sup> December) 7:30pm at West Road Concert Hall, in conjunction with the Gamelan Society. [This event is ticketed](https://www.cmp.cam.ac.uk/events/event/item/chineseorchestrajavanesegamelan/) to cover expenses.
-
 In 2002 a Chinese visiting scholar who was returning to China gave me a CD called “The Essence of Traditional Chinese Music (中國民樂大全) vol.3”.
 
 Details and track list:
@@ -83,9 +81,9 @@ Some of the music CUCOS has played has been political etc, and I try to avoid pa
 
 ## Concert pattern
 
-CUCOS is mostly active in the winter and spring terms, shutting down for the examination term. In their first years they performed at least two concerts per year in different colleges, then in spring 2010 obtained an annual slot at West Road concert hall, and the ensemble as a whole focused on that one concert until a second one was restored in winter 2012. After that they fell into a pattern of two concerts per academic year, the first being a free one in a college (usually Robinson) and the second being ticketed at West Road, which helps raise funds for club instruments (not everyone can bring their own, especially larger instruments). The West Road concert is usually videotaped for players to show to their families in China or wherever—the club is open to everyone, but most players tend to be international students from China, Singapore etc and very few have families living near enough to come to a concert, so they appreciate being able to take home the video file. Sometimes the club is invited to give an additional performance at a large Chinese New Year party (I avoid those).
+CUCOS is mostly active in the winter and spring terms, shutting down for the examination term. In their first years they performed at least two concerts per year in different colleges, then in spring 2010 obtained an annual slot at West Road concert hall, and the ensemble as a whole focused on that one concert until a second one was restored in winter 2012. After that they fell into a pattern of two concerts per academic year, the first being a free one in a college (usually Robinson) and the second being ticketed at West Road, which helps raise funds for club instruments (not everyone can bring their own, especially larger instruments). The West Road concert is usually videotaped for players to show to their families in China or wherever—the club is open to everyone, but most players tend to be international students from China, Singapore etc and very few have families living near enough to come to a concert, so they appreciate being able to take home the video file. Sometimes the club is invited to give an additional performance at a large Chinese New Year party (I avoid those). In 2025/26 it was no longer possible to book West Road in the spring so they played there in December 2025 in a joint concert with a Gamelan society.
 
-CUCOS end-of-year concerts have sometimes featured soloists from outside Cambridge, either playing separate items (e.g. guzheng player Lin Li from London in 2016 and 2017), or playing a concerto with the orchestra (e.g. harmonicist Jia-Yi He from America in 2009). In 2015 WCOS visited Cambridge as a group and played an item in the CUCOS concert. Most items however have been produced by CUCOS’s own members; post-pandemic they’ve also been joined for some items by a local private ensemble of Chinese parents and children called the Flamingo and Dolphin Orchestra.
+CUCOS final concerts have sometimes featured soloists from outside Cambridge, either playing separate items (e.g. guzheng player Lin Li from London in 2016 and 2017), or playing a concerto with the orchestra (e.g. harmonicist Jia-Yi He from America in 2009). In 2015 WCOS visited Cambridge as a group and played an item in the CUCOS concert. Most items however have been produced by CUCOS’s own members; post-pandemic they’ve also been joined for some items by a local private ensemble of Chinese parents and children called the Flamingo and Dolphin Orchestra.
 
 ## Anecdote
 
