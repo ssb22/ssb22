@@ -1,5 +1,5 @@
 
-from cvi.mdblindsight.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/cvi/blindsight.html) just in case)
+from https://ssb22.user.srcf.net/cvi/blindsight.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/cvi/blindsight.html) just in case)
 
 # Consciousness and blindsight
 
