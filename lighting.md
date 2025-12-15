@@ -113,6 +113,6 @@ DFS is a trademark of DFS Group Limited.
 IEEE 1789 is a trademark of the IEEE.
 Ledvance is a trademark of LEDVANCE GmbH.
 Osram is a trademark of OSRAM GmbH.
-Toolstation is a trademark of Toolstation Ltd
+Toolstation is a trademark of Toolstation Ltd.
 Wi-Fi is a trademark of the Wi-Fi Alliance.
 Any other [trademarks](https://ssb22.user.srcf.net/trademarks.html) I mentioned without realising are trademarks of their respective holders.
