@@ -5,17 +5,9 @@ from https://ssb22.user.srcf.net/compos/fingering.htm (also [mirrored on GitLab 
 
 Can be played only softly. In the octave above middle C: ![fingering.png](https://ssb22.user.srcf.net/compos/fingering.png)
 * **C# and E:** Thumb, second and third fingers on left hand; on the right hand, use your F finger to put the F down and your **D finger** to put the E down. Then use the E finger to press the first trill key.
-
-  
 * **D and F:** Finger F while pressing both trill keys.
-
-  
 * **C and the D an octave above:** Finger the third D and underblow it.
-
-  
 * **Other:** By playing a low note (middle C, C# or D is best) and overblowing to get the harmonics, you can sometimes get two or more harmonics to sound simultaneously, hence getting intervals of an octave, fifth, fourth, and third.
-
-  
 
 You may have to experiment with breath pressure in each case. (There are other multiphonics, but they don’t all work on all flutes. I kept to the above when using them in one of my small [compositions](compos.md).)
 

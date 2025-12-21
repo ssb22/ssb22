@@ -19,11 +19,7 @@ just a few short ones. Mostly converted to MIDI from [Manuscript Writer](https:/
   
 
   
-
-  
 * [Fanfare for brass trio](https://ssb22.user.srcf.net/compos/fanfare.mid) (1996) (1min 49sec)
-
-  
 
   
 
@@ -33,15 +29,11 @@ just a few short ones. Mostly converted to MIDI from [Manuscript Writer](https:/
   
 
   
-
-  
 * Two Musical Diversions for recorder trio (1996).
 
   [Number 1](https://ssb22.user.srcf.net/compos/recorder.mid) (2min 10sec),
 
   [Number 2](https://ssb22.user.srcf.net/compos/div2.mid) (2min 20sec)
-
-  
 
 ## Arrangements
 

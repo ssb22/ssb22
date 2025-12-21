@@ -203,33 +203,21 @@ Materials for revision: Table of the Combinations of the Initials and Finals in 
 
 Concise information of lesson 1:
 * Brief Chinese language introduction
-
-  
 * Mandarin Pronunciation
-
-  
 * About tones
-
-  
 
 *(Above are for beginners)*
 * Chinese characters from hieroglyph (2 at a time)
 
-  
-
 (This is among the most interesting and famous bits of Chinese language. It helps you to remember characters and understand radical index, which will be used when looking for words in a Chinese dictionary.)
 * Speaking and Listening Chinese — most common social vocabulary and conversation
-
-  
 
 (Chinese characters accompanied by phonetic alphabet and English explanation)
 * Grammar — summarized from the social conversation and about numerals and nouns
 
-  
-
 ### Lesson 2 handout
 
-[Pages 2 to 6 of the Routledge book *Chinese: An Essential Grammar* , not reproduced here for copyright reasons. I **do** recommend that book though—SSB]
+[Pages 2 to 6 of the Routledge book *Chinese: An Essential Grammar*, not reproduced here for copyright reasons. I **do** recommend that book though—SSB]
 
 ### Lessons 3 and 4 handout by Chloe Liu
 
@@ -623,9 +611,9 @@ Introduction written in about 2001:
 
 ### Introduction to making Spring Rolls
 * Invented in **South China**
-* Have it as a ** Dim Sum** when the ** Spring Begins** so call it Spring Roll
-* Not to talk about how to make the ** Spring Roll Pastry** today - you may get it from any ** Chinese Supermarket** in different Size
-* **Filling**—various. Remember if you are not vegetarian and going to have some mince in it you better ** Fry the Mince** first.
+* Have it as a **Dim Sum** when the **Spring Begins** so call it Spring Roll
+* Not to talk about how to make the **Spring Roll Pastry** today - you may get it from any **Chinese Supermarket** in different Size
+* **Filling**—various. Remember if you are not vegetarian and going to have some mince in it you better **Fry the Mince** first.
 * Two Traditional Fillings:
   * Prawn spring roll: Material: Prawn; Fried egg, Spring Onion, Bamboo Root, Carrot—all cut into pieces; Bean Sprout; Vermi’chelli
   * Vegetarian spring roll: Material: (except Prawn from last one) Bamboo Root, Dried Mushroom, Carrot, Spring Onion—all cut into pieces; Bean Sprout; Vermicelli
@@ -641,12 +629,12 @@ Introduction written in about 2001:
   * Vegetarian Filling Making: Mix up the above ingredient except the Prawn as above.
 * How to make the Spring Roll?
   * Make some pa’nada by mixing flour and water together as the glue material
-  * Place the pastry like this [ *at this point the original document had a blank space, and the instructor hand-drew the image after printing it; I don’t have a scan* ]
-  * Put the filling about 1/3 near the bottom angle like this [ *again a missing sketch* ]
-  * Fold the angle inwards like this [ *again a missing sketch* ]
-  * Start rolling over the filling like this [ *again a missing sketch* ]
-  * Once you reach near the angle in the opposite side Fold the spared bits on both sides inwards like this [ *again a missing sketch* ]
-  * Roll till make it like a little cylinder like this [ *again a missing sketch* ]
+  * Place the pastry like this [*at this point the original document had a blank space, and the instructor hand-drew the image after printing it; I don’t have a scan*]
+  * Put the filling about 1/3 near the bottom angle like this [*again a missing sketch*]
+  * Fold the angle inwards like this [*again a missing sketch*]
+  * Start rolling over the filling like this [*again a missing sketch*]
+  * Once you reach near the angle in the opposite side Fold the spared bits on both sides inwards like this [*again a missing sketch*]
+  * Roll till make it like a little cylinder like this [*again a missing sketch*]
   * Use the flour glue to seal it
   * Pour a lot of oil in a frying wok
   * Leave the oil to be heat up for a few minutes (adjust the heat between mark 6-8)
@@ -726,7 +714,7 @@ CCS’s membership fee was set back to zero in October 2020, in response to the 
 > 2024/25 — Dunhuang (敦煌) (original musical in English by graduate composer [Jingyu Chen](https://www.jingyuchen.com/), also at Edinburgh Fringe in summer)
 * In 2005 CCS started a termly Chinese literature magazine called *Yuan* or *Yan Wu Yan* 言吾言 (I tried to obtain spare copies to archive, but they were all taken by current students).
   * Magazine production continued until 2015. It was then replaced by Yearbooks of leavers’ information for 2015, 2016 and 2021.
-  * Back in 1999 CCS had also helped to distribute the last issue of *The Seres* , which introduced me to the [Xu Zhimo poem I retranslated](https://ssb22.user.srcf.net/poem/). The Seres is available in the Rare Books Room of the University Library under code Cam.b.41.63.1- (not borrowable).
+  * Back in 1999 CCS had also helped to distribute the last issue of *The Seres*, which introduced me to the [Xu Zhimo poem I retranslated](https://ssb22.user.srcf.net/poem/). The Seres is available in the Rare Books Room of the University Library under code Cam.b.41.63.1- (not borrowable).
 * In 2007 CCS put on their first music concert. One of the items was me and a committee member playing 高山青 etc on two flutes, but I forgot to tell their spotlight operator about my light sensitivity—so I kept trying to dodge and he kept following.
   * In 2008 CCS’s concert became a pop singing contest, leaving instrumental music to the newly-formed CUCOS (the founding of which was [probably my fault](cucos.md)—sorry CCS).
 

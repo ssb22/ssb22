@@ -57,7 +57,7 @@ I wrote for the [ACCU.org](http://accu.org) members-only journal “C Vu” (IS
 * Delivering Bad News from QA.: C Vu, 28(5):4-5, November 2016. (The wrong approach has cost people their careers)
 * Random Confusion.: C Vu, 28(4):10-11, September 2016. (BSD-manual unclarity on `rand()` vs `random()`, plus XorShift)
 * An Introduction to OpenMP.: C Vu, 28(4):8-9, September 2016.
-* Why Floats Are Never Equal.: C Vu, 28(4):5, September 2016. (Well they are *sometimes* , but unexpected things happen e.g. compiler changes precision on register spill)
+* Why Floats Are Never Equal.: C Vu, 28(4):5, September 2016. (Well they are *sometimes*, but unexpected things happen e.g. compiler changes precision on register spill)
 * Book review: Make Games With Python by Sean M. Tracey.: C Vu, 28(1):23, March 2016. (I’m sorry to say I couldn’t really recommend giving this book to a child)
 * “HTTPS Everywhere” Considered Harmful.: C Vu, 27(6):8, January 2016. (Especially for people whose only connection to the Internet is via 2G GSM, reading public-service articles that could be identified by traffic analysis anyway)
 * Use the DOM Inspector.: C Vu, 27(4):22, September 2015.
