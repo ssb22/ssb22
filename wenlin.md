@@ -6,7 +6,7 @@ from https://ssb22.user.srcf.net/gradint/wenlin3.html (also [mirrored on GitLab 
 In mid-2009 [Wenlin Institute](http://www.wenlin.com/) kindly allowed me access to their C source code and I was able to add features such as:
 1. Pinyin transcription: Wenlin 4 can resolve segmentation and pinyin ambiguities automatically (based on its frequency data and some rules I added), and there are improvements in spacing and capitalisation, as well as the handling of full-width ASCII etc.
 
-Also, pinyin can be **placed over hanzi** (like Ruby markup) in:
+   Also, pinyin can be **placed over hanzi** (like Ruby markup) in:
    * TeX code (copes with narrow columns, Simplified/Traditional switching, Greek and various symbols, hyperlinks, and has a function to quickly add highlighting to selected words in the TeX output)
    * Lilypond lyrics
    * HTML (with popup definitions)
@@ -48,20 +48,50 @@ You will need Python 2 and Wenlin 3.
 
 Contents:
 * Pinyin with characters underneath
+
+  
 * Pinyin colouriser
+
+  
 * Automatic “fix”
+
+  
 * Importing cidian entries from a CEDICT/Adso-like format, with corrections
+
+  
 * Extracting a word list from a document
+
+  
 * Adding apostrophes to pinyin with tone numbers
+
+  
 * Checking an entry list for specific phrases
+
+  
 * Checking a cidian entry list for words not already recognised by Wenlin
+
+  
 * Extracting new yinghan entries from a cidian entry list
+
+  
 * Capitalising the first pinyin letter in certain cidian entries
+
+  
 * Exporting to CEDICT format
+
+  
 * Exporting to Pleco format
+
+  
 * Exporting to WM-Dict
+
+  
 * Exporting to LaTeX
+
+  
 * Batch-printing hanzi entries
+
+  
 
 ## Pinyin with characters underneath
 
@@ -221,7 +251,7 @@ Then, if you want Wenlin to correct the traditional-to-simplified conversion, ma
 
 Similarly, if you want to correct the simplified-to-traditional conversion (in cases where this is not ambiguous), make a “Full form characters” transcription of word2.u8 and save it as `full.u8`, otherwise, make sure `full.u8` does not exist.
 
-If you want Wenlin to correct the pinyin, you can then open `word1.u8`, segment it, do a pinyin transcription, **replace tone marks with 1-4**, and save that as `word1.u8` (replacing it). You don’t have to fix the ambiguities; the script below will attempt to correct an entry only if there are no ambiguities to fix in the correction. If you leave `word1.u8` un-transcribed (or not created), then pinyin correction will not be attempted at all.
+If you want Wenlin to correct the pinyin, you can then open `word1.u8`, segment it, do a pinyin transcription, **replace tone marks with 1-4** , and save that as `word1.u8` (replacing it). You don’t have to fix the ambiguities; the script below will attempt to correct an entry only if there are no ambiguities to fix in the correction. If you leave `word1.u8` un-transcribed (or not created), then pinyin correction will not be attempted at all.
 
 If you have both traditional and simplified versions in the list, it may be better to source the pinyin corrections from the *simplified* i.e. `word2.u8` (but save the result as `word1.u8`) as this is less susceptible to causing Wenlin to fail to recognise a word due to a wrong choice of traditional character. Another option is to run the whole process twice, the first time taking pinyin from full form and the second time taking pinyin from the `full.u8` corrections (you need to re-export to cedict in between the two runs if you are doing this). In all cases, save Wenlin’s pinyin as `word1.u8`.
 
@@ -634,7 +664,7 @@ Old method follows:
 
 Add an appropriate CJK command, e.g. on a recent Ubuntu system with `latex-cjk-chinese` and `latex-cjk-chinese-arphic-*` packages, use `\begin{CJK}{GB}{gbsn}` for Simplified in GB, `\begin{CJK}{Bg5}{bsmi}` for Traditional in Big5, `\begin{CJK}{UTF8}{bsmi}` for Traditional in UTF-8, etc. (Some older systems need `\begin{CJK}{GB}{song}` for Simplified in GB and `\begin{CJK*}{Bg5}{song}` for Traditional in Big5.)
 
-Also add `\end{CJK}`. Do not add other TeX markup yet (some of it might be confused for pinyin later). **Use Wenlin’s “Replace tone marks with 1-4” function** and **save the file in the appropriate encoding**, and in a Unix environment do
+Also add `\end{CJK}`. Do not add other TeX markup yet (some of it might be confused for pinyin later). **Use Wenlin’s “Replace tone marks with 1-4” function** and **save the file in the appropriate encoding** , and in a Unix environment do
 
 Code:
 ```
@@ -646,28 +676,51 @@ replacing infile and outfile with the appropriate filenames. Then edit the LaTeX
 If you have trouble, please try a different TeX distribution. Some TeX distributions from around 2005 were particularly quirky with CJK (conflicts between `usepackage`s, trouble with hanzi in PDF headings, unreliable UTF-8, ...) and if you have one of these then it’s probably easier to upgrade it than to work around its flaws. However, if you’re stuck (e.g. because some IT department forces you to use an inferior version of Linux with unusable package management) then you *could* try some workarounds:
 * If pinyin.sty doesn’t typeset `ding`, add
 
-Code:
+  
+
+  Code:
+
+  
 ```
 \catcode`@=11 \def\ding#1{\py@hy d\py@i dn#1ng\py@sp{}} \catcode`@=12
 ```
-after the `\usepackage{pinyin}`
+   after the `\usepackage{pinyin}`
+
+  
 * If you’re using the `microtype` package, make sure to `\usepackage{microtype}` *after* the above, and then add this:
 
-Code:
+  
+
+  Code:
+
+  
 ```
- \catcode`@=11
- \let\MT@orig@py@macron\py@macron
- \@ifpackagelater{pinyin}{2005/08/11}{
-  \def\py@macron#1#2{\let\pickup@font\MT@orig@pickupfont
-   \MT@orig@py@macron{#1}{#2}\let\pickup@font\MT@pickupfont}%
-  }{%
-   \def\py@macron#1{\let\pickup@font\MT@orig@pickupfont
-   \MT@orig@py@macron{#1}\let\pickup@font\MT@pickupfont}%
- }\catcode`@=12
- 
+   \catcode`@=11
+
+   \let\MT@orig@py@macron\py@macron
+
+   \@ifpackagelater{pinyin}{2005/08/11}{
+
+    \def\py@macron#1#2{\let\pickup@font\MT@orig@pickupfont
+
+     \MT@orig@py@macron{#1}{#2}\let\pickup@font\MT@pickupfont}%
+
+    }{%
+
+     \def\py@macron#1{\let\pickup@font\MT@orig@pickupfont
+
+     \MT@orig@py@macron{#1}\let\pickup@font\MT@pickupfont}%
+
+   }\catcode`@=12
+
+   
 ```
-This should solve the problem of some tone marks being printed over spaces instead of letters.
+   This should solve the problem of some tone marks being printed over spaces instead of letters.
+
+  
 * `pdflatex` may drop some hanzi from `section` headings that are not on the first page; use ordinary `latex` instead, or pdflatex with DVI output.
+
+  
 
 Again, upgrading your TeX distribution should avoid the need for such workarounds.
 
@@ -675,74 +728,144 @@ Again, upgrading your TeX distribution should avoid the need for such workaround
 
 Wenlin can print its entry for a single hanzi, including the pictorial parts. If you want to do this for large numbers of hanzi at a time, **for personal use only** (for example to load them onto a PDA for viewing on a journey), then the following script may be useful. It is currently Windows only, and the setup is slightly complex as it relies on sending keystrokes to Wenlin.
 1. Install CutePDF and set it as the default printer. Make sure its output files go to your home directory (this should happen by default if you haven’t changed it).
+
+   
 2. Set Wenlin to print your desired number of characters per line. If the “printout” is to be on a PDA then you might want to make this quite small, by increasing the font size and reducing Wenlin’s window size, and you can also set 0 margins and no page numbers in Page Setup.
+
+   
 3. Create a Wenlin buffer containing all the characters you want information on, without line breaks or spaces, in editable mode and with the cursor placed at the beginning. For example if you want the characters from [charlearn](https://ssb22.user.srcf.net/gradint/charlearn.html)’s `characters.txt` you can do
 
-Code:
+   
+
+   Code:
+
+   
 ```
 open("hanzi.gb","w").write("".join(map(lambda l:l.split()[0],open("characters.txt").readlines()[1:])))
- 
+
+    
 ```
-and open hanzi.gb in edit mode.
+    and open hanzi.gb in edit mode.
+
+   
 4. Run the script below (or paste it into an interpreter), changing the value of `numHanzi` to the actual number of hanzi you have in the buffer. The resulting pdf files will be created in the script’s working directory, named 0.pdf, 1.pdf etc.
 
-Code:
+   
+
+   Code:
+
+   
 ```
 numHanzi = 492
- 
- import os, time
- # CutePDF's default destination file for Wenlin
- # (depends on if we're on Cygwin or just Windows)
- if "HOME" in os.environ: f=os.environ["HOME"]+os.sep+"Wenlin.pdf"
- else: f=os.environ["HOMEDRIVE"]+os.environ["HOMEPATH"]+"\\Wenlin.pdf"
- 
- try: os.remove(f) # in case you did a test print
- except: pass
- 
- for h in range(numHanzi):
-     open("_wenlin_hanzi_vbs.vbs","w").write("\n".join([
-         'set WshShell = WScript.CreateObject("WScript.Shell")',
-         'WshShell.AppActivate "Wenlin"',
-         'WScript.Sleep 100',
-         'WshShell.SendKeys "+{RIGHT}^x^l^v~^e^p"', # Shift-Right Cut Lookup Paste Enter Edit Print, i.e. look up the 1st character and print it
-         'WScript.Sleep 100',
-         'WshShell.SendKeys "~"', # Enter (confirm print dialogue)
-         'WScript.Sleep 4000', # allow CutePDF enough time
-         'WshShell.AppActivate "Save As"', # ensure got CutePDF's dialogue
-         'WshShell.SendKeys "~"', # accept default Wenlin.pdf
-         'WScript.Sleep 100',
-         'WshShell.AppActivate "Wenlin"',
-         'WshShell.SendKeys "^w"', # close hanzi entry
-         ]))
-     os.system("Cscript.exe _wenlin_hanzi_vbs.vbs")
-     os.remove("_wenlin_hanzi_vbs.vbs")
-     time.sleep(2)
-     p=None
-     while not p:
-         try: p=open(f,"rb")
-         except: time.sleep(1) # allow .pdf to be written
-     open(str(h)+".pdf","wb").write(p.read())
-     p.close()
-     os.remove(f)
- 
- pass # (so get the above blank line if pasting into interpreter)
- 
+
+    
+
+    import os, time
+
+    # CutePDF's default destination file for Wenlin
+
+    # (depends on if we're on Cygwin or just Windows)
+
+    if "HOME" in os.environ: f=os.environ["HOME"]+os.sep+"Wenlin.pdf"
+
+    else: f=os.environ["HOMEDRIVE"]+os.environ["HOMEPATH"]+"\\Wenlin.pdf"
+
+    
+
+    try: os.remove(f) # in case you did a test print
+
+    except: pass
+
+    
+
+    for h in range(numHanzi):
+
+        open("_wenlin_hanzi_vbs.vbs","w").write("\n".join([
+
+            'set WshShell = WScript.CreateObject("WScript.Shell")',
+
+            'WshShell.AppActivate "Wenlin"',
+
+            'WScript.Sleep 100',
+
+            'WshShell.SendKeys "+{RIGHT}^x^l^v~^e^p"', # Shift-Right Cut Lookup Paste Enter Edit Print, i.e. look up the 1st character and print it
+
+            'WScript.Sleep 100',
+
+            'WshShell.SendKeys "~"', # Enter (confirm print dialogue)
+
+            'WScript.Sleep 4000', # allow CutePDF enough time
+
+            'WshShell.AppActivate "Save As"', # ensure got CutePDF's dialogue
+
+            'WshShell.SendKeys "~"', # accept default Wenlin.pdf
+
+            'WScript.Sleep 100',
+
+            'WshShell.AppActivate "Wenlin"',
+
+            'WshShell.SendKeys "^w"', # close hanzi entry
+
+            ]))
+
+        os.system("Cscript.exe _wenlin_hanzi_vbs.vbs")
+
+        os.remove("_wenlin_hanzi_vbs.vbs")
+
+        time.sleep(2)
+
+        p=None
+
+        while not p:
+
+            try: p=open(f,"rb")
+
+            except: time.sleep(1) # allow .pdf to be written
+
+        open(str(h)+".pdf","wb").write(p.read())
+
+        p.close()
+
+        os.remove(f)
+
+    
+
+    pass # (so get the above blank line if pasting into interpreter)
+
+    
 ```
+   
+
+   
 5. If your device cannot view PDFs, you can convert them to another format. For example to convert to “extra” PNG’s for the mobile version of charlearn, do this (in a Unix shell with GS and netpbm, such as Cygwin with those packages installed):
 
-Code:
+   
+
+   Code:
+
+   
 ```
 for P in 0.pdf [1-9]*.pdf; do
-   gs -sDEVICE=pnggray -sOutputFile=myfile%02d.png -r28 -q -dNOPAUSE - < $P;
-   for M in myfile*.png; do
-     pngtopnm < $M | pnmcrop -white -top -bottom > $M.pnm;
-   done;
-   pnmcat -tb myfile*.png.pnm | pnmtopng -compression 9 > x$(echo $P|sed -e s/pdf/png/);
-   rm myfile*;
- done
- 
+
+      gs -sDEVICE=pnggray -sOutputFile=myfile%02d.png -r28 -q -dNOPAUSE - < $P;
+
+      for M in myfile*.png; do
+
+        pngtopnm < $M | pnmcrop -white -top -bottom > $M.pnm;
+
+      done;
+
+      pnmcat -tb myfile*.png.pnm | pnmtopng -compression 9 > x$(echo $P|sed -e s/pdf/png/);
+
+      rm myfile*;
+
+    done
+
+    
 ```
-and remember to set got_extra to 1 in flashcards.html so that they will display.
+    and remember to set got_extra to 1 in flashcards.html so that they will display.
+
+   
 
 Copyright and Trademarks:
 All material © Silas S. Brown unless otherwise stated.

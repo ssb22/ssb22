@@ -10,18 +10,38 @@ You might also like [some of my father’s compositions](https://web.archive.org
 just a few short ones. Mostly converted to MIDI from [Manuscript Writer](https://ssb22.user.srcf.net/mwrhome/) input; the quality will depend on that of your computer’s synthesis.
 * Three movements from Fantasy for recorder quartet (1994-95)
 
-[Movement 1](https://ssb22.user.srcf.net/compos/piece3a.mid) (4min 54sec),
+  [Movement 1](https://ssb22.user.srcf.net/compos/piece3a.mid) (4min 54sec),
 
-[Movement 2](https://ssb22.user.srcf.net/compos/piece3b.mid) (2min 14sec),
+  [Movement 2](https://ssb22.user.srcf.net/compos/piece3b.mid) (2min 14sec),
 
-[Movement 3](https://ssb22.user.srcf.net/compos/piece3c.mid) (1min 46sec)
+  [Movement 3](https://ssb22.user.srcf.net/compos/piece3c.mid) (1min 46sec)
+
+  
+
+  
+
+  
 * [Fanfare for brass trio](https://ssb22.user.srcf.net/compos/fanfare.mid) (1996) (1min 49sec)
-* [The Callapodated Calliope](https://ssb22.user.srcf.net/compos/calliope.mid) for flute and marimba (1996) (3min 13sec). Yes the chords on the flute are possible; [here is the fingering](fingering.md).
+
+  
+
+  
+
+  
+* [The Callapodated Calliope](https://ssb22.user.srcf.net/compos/calliope.mid) for flute and marimba (1996) (3min 13sec). Yes the chords on the flute *are* possible; [here is the fingering](fingering.md).
+
+  
+
+  
+
+  
 * Two Musical Diversions for recorder trio (1996).
 
-[Number 1](https://ssb22.user.srcf.net/compos/recorder.mid) (2min 10sec),
+  [Number 1](https://ssb22.user.srcf.net/compos/recorder.mid) (2min 10sec),
 
-[Number 2](https://ssb22.user.srcf.net/compos/div2.mid) (2min 20sec)
+  [Number 2](https://ssb22.user.srcf.net/compos/div2.mid) (2min 20sec)
+
+  
 
 ## Arrangements
 
