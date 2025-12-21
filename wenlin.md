@@ -635,16 +635,12 @@ replacing infile and outfile with the appropriate filenames. Then edit the LaTeX
 If you have trouble, please try a different TeX distribution. Some TeX distributions from around 2005 were particularly quirky with CJK (conflicts between `usepackage`s, trouble with hanzi in PDF headings, unreliable UTF-8, ...) and if you have one of these then it’s probably easier to upgrade it than to work around its flaws. However, if you’re stuck (e.g. because some IT department forces you to use an inferior version of Linux with unusable package management) then you *could* try some workarounds:
 * If pinyin.sty doesn’t typeset `ding`, add
 
-  
-
   Code:
 ```
 \catcode`@=11 \def\ding#1{\py@hy d\py@i dn#1ng\py@sp{}} \catcode`@=12
 ```
    after the `\usepackage{pinyin}`
 * If you’re using the `microtype` package, make sure to `\usepackage{microtype}` *after* the above, and then add this:
-
-  
 
   Code:
 ```
@@ -671,16 +667,12 @@ Wenlin can print its entry for a single hanzi, including the pictorial parts. If
 2. Set Wenlin to print your desired number of characters per line. If the “printout” is to be on a PDA then you might want to make this quite small, by increasing the font size and reducing Wenlin’s window size, and you can also set 0 margins and no page numbers in Page Setup.
 3. Create a Wenlin buffer containing all the characters you want information on, without line breaks or spaces, in editable mode and with the cursor placed at the beginning. For example if you want the characters from [charlearn](https://ssb22.user.srcf.net/gradint/charlearn.html)’s `characters.txt` you can do
 
-   
-
    Code:
 ```
 open("hanzi.gb","w").write("".join(map(lambda l:l.split()[0],open("characters.txt").readlines()[1:])))
 ```
     and open hanzi.gb in edit mode.
 4. Run the script below (or paste it into an interpreter), changing the value of `numHanzi` to the actual number of hanzi you have in the buffer. The resulting pdf files will be created in the script’s working directory, named 0.pdf, 1.pdf etc.
-
-   
 
    Code:
 ```
@@ -723,10 +715,8 @@ for h in range(numHanzi):
 
 pass # (so get the above blank line if pasting into interpreter)
 ```
-   
-5. If your device cannot view PDFs, you can convert them to another format. For example to convert to “extra” PNG’s for the mobile version of charlearn, do this (in a Unix shell with GS and netpbm, such as Cygwin with those packages installed):
 
-   
+5. If your device cannot view PDFs, you can convert them to another format. For example to convert to “extra” PNG’s for the mobile version of charlearn, do this (in a Unix shell with GS and netpbm, such as Cygwin with those packages installed):
 
    Code:
 ```
