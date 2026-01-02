@@ -18,9 +18,9 @@ Also worked some days for Grapeshot Ltd resulting in the above Oracle position a
 
 **IBM and Cambridge University** (2004–05). Post-doctoral research associate working on new interfaces for IBM Eclipse. Used 4DML with Emacs lisp, Java, Make/Bash/sed/awk etc.
 
-**Cambridge University — Ph. D. in Computer Science** (2000–2004).  Thesis on “Conversion of Notations”. Invented the [4DML framework](https://github.com/ssb22/4dml) for prototyping conversions of maths, music, etc between various input and output formats, including Braille, speech, and different approaches to print. (Also [autism advocacy](m3gan.md), discovered Linux kernel CVE, etc)
+**Cambridge University — Ph. D. in Computer Science** (2000–2004).  Thesis on “Conversion of Notations” (see [publications](papers.md)). Invented the [4DML framework](https://github.com/ssb22/4dml) for prototyping conversions of maths, music, etc between various input and output formats, including Braille, speech, and different approaches to print. (Also [autism advocacy](m3gan.md), discovered Linux kernel CVE, etc)
 
-**Cambridge University — BA (Hons) Computer Science (rank 1)** (1997–2000). AT&T project prize + Larmour achievement award. Produced Computer Society magazine, helped found [student-run server](srcf.md), [Chinese culture society](ccs.md) & later [Chinese orchestra](cucos.md). Dartington International Summer School bursary student for flute (Grade 8) and recorders; [C++ music typesetting](https://github.com/ssb22/mwr2ly).
+**Cambridge University — BA (Hons) Computer Science (rank 1)** (1997–2000). AT&T prize for [project](project.md); Larmour achievement award. Produced Computer Society magazine, helped found [student-run server](srcf.md), [Chinese culture society](ccs.md) & later [Chinese orchestra](cucos.md). Dartington International Summer School bursary student for flute (Grade 8) and recorders; [C++ music typesetting](https://github.com/ssb22/mwr2ly).
 
 **ACCU.org** (professionalism in programming association): disabilities officer 1997–2007; joined 1994, honorary member since 2004; wrote 200+ [articles](cvu.md), book reviews, code critiques etc.
 
