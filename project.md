@@ -1,5 +1,5 @@
 
-from https://ssb22.user.srcf.net/project/index.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/project/index.html) just in case)
+from https://ssb22.user.srcf.net/project/ (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/project/) just in case)
 
 # Undergraduate Project Dissertation
 

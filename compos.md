@@ -1,5 +1,5 @@
 
-from https://ssb22.user.srcf.net/compos/index.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/compos/index.html) just in case)
+from https://ssb22.user.srcf.net/compos/ (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/compos/) just in case)
 
 # Compositions and arrangements
 

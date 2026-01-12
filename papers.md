@@ -1,11 +1,11 @@
 
-from https://ssb22.user.srcf.net/papers/index.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/papers/index.html) just in case)
+from https://ssb22.user.srcf.net/papers/ (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/papers/) just in case)
 
 # Academic Publications
 * Silas S. Brown, Yun-Wen Chen, Ming Wang, Alexandra Clipson, Eguzkine Ochoa, and Ming-Qing Du (2017). PrimerPooler: automated primer pooling to prepare library for targeted sequencing. Biology Methods and Protocols. Oxford University Press. 2(1). doi:[10.1093/biomethods/bpx006](http://doi.org/10.1093/biomethods/bpx006)
 * PhD thesis: Conversion of notations. Technical report UCAM-CL-TR-591, University of Cambridge, Computer Laboratory, June 2004. [PDF format](http://www.cl.cam.ac.uk/TechReports/UCAM-CL-TR-591.pdf)
 * Silas S. Brown and Peter Robinson. Transformation frameworks and their relevance in universal design. *Universal Access in the Information Society*, 3.3-4:209-223, 2004. [PDF format](http://www.cl.cam.ac.uk/~pr10/publications/uais04b.pdf)
-* Silas S. Brown. Web Annotation with Modified-Yarowsky and Other Algorithms. [Overload issue 112](https://accu.org/journals/overload/20/112/overload112.pdf) (December 2012) pp.4-7 (PDF pp.5-8, [HTML version](https://accu.org/journals/overload/20/112/brown_1881/))
+* Silas S. Brown. Web Annotation with Modified-Yarowsky and Other Algorithms. Overload issue 112 (December 2012) pp.4-7
 * Jose Torres-Pruñonosa, Miquel-Angel Plaza-Navas and Silas S. Brown (2022). Jehovah’s Witnesses’ adoption of digitally-mediated services during Covid-19 pandemic. Cogent Social Sciences. Taylor & Francis. 8(1). doi:[10.1080/23311886.2022.2071034](https://doi.org/10.1080/23311886.2022.2071034)  (also [in Spanish](https://doi.org/10.20350/digitalCSIC/14663))
 * Silas S. Brown and Peter Robinson. Interacting with notations: two examples of the use of a transformation system. *Universal Access in the Information Society*, 4.2:96-, 2005.
 * S.S. Brown and P. Robinson. Transforming musical notations for universal access. In: Designing a More Inclusive World: proceedings of the Cambridge Workshop on Universal Access and Assistive Technology 2004, pp 123-132. [PDF format](https://ssb22.user.srcf.net/papers/cwuaat4.pdf) (copyright held by the publisher Springer-Verlag)
@@ -14,8 +14,8 @@ from https://ssb22.user.srcf.net/papers/index.html (also [mirrored on GitLab Pag
 * Silas Brown and Peter Robinson. Usable Personal Information Management Techniques for People with Low Vision. In: Proceedings of the 11th International Conference on Human-Computer Interaction (HCII 2005, Nevada, USA), Vol.7: Universal Access in HCI: Exploring New Interaction Environments. [PDF format](https://ssb22.user.srcf.net/papers/hcii3.pdf)
 * Silas S. Brown and Peter Robinson. Addressing Print Disabilities in Adult Foreign-language Acquisition. In: Proceedings of the 10th International Conference on Human-Computer Interaction (HCII 2003, Crete, Greece), Vol.4: Universal Access in HCI, pp 38-42. [PDF format](https://ssb22.user.srcf.net/papers/hcii.pdf) (copyright held by the publisher LEA; note that this PDF differs slightly from the final copy which I don’t have)
 * S.S. Brown and P. Robinson. Automatically Rearranging Structured Data for Customised Special-Needs Presentations. In: Universal Access and Assistive Technology: proceedings of the Cambridge Workshop on UA and AT 2002, pp 109-118. [PDF format](https://ssb22.user.srcf.net/papers/brown_4dml.pdf) (copyright held by the publisher Springer-Verlag)
-* Silas S. Brown. Multiprocessing and Clusters in Python. [Overload issue 137](https://accu.org/journals/overload/25/137/overload137.pdf) (February 2017) pp.13-15 ([HTML version](http://accu.org/index.php/journals/2342))
-* Silas S. Brown. Indexing STL Lists with Maps. [Overload issue 53](https://accu.org/journals/overload/11/53/overload53.pdf) (February 2003) pp.18-19 (PDF pp.16-17, [HTML version](https://accu.org/journals/overload/11/53/brown_2011/))
+* Silas S. Brown. Multiprocessing and Clusters in Python. Overload issue 137 (February 2017) pp.13-15
+* Silas S. Brown. Indexing STL Lists with Maps. Overload issue 53 (February 2003) pp.18-19 (PDF pp.16-17)
 * [14 Linux Gazette articles](https://web.archive.org/web/20220618004135/http://linuxgazette.net/authors/brownss.html) published between 2007 and 2011
 * Silas S. Brown. Beyond XML: Building Transformation Algorithms in Python. ACCU spring conference 2002 (proceedings on CD-ROM).
 * Silas S Brown & Peter Robinson. A World Wide Web Mediator for Users with Low Vision. CHI 2001 Workshop No. 14 (Seattle, USA). [PDF format](http://www.ics.forth.gr/proj/at-hci/chi2001/files/brown.pdf)

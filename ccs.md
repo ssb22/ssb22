@@ -1,5 +1,5 @@
 
-from https://ssb22.user.srcf.net/old-ccs/index.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/old-ccs/index.html) just in case)
+from https://ssb22.user.srcf.net/old-ccs/ (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/old-ccs/) just in case)
 
 # Old CUCCS website
 

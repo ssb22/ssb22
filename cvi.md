@@ -1,5 +1,5 @@
 
-from https://ssb22.user.srcf.net/cvi/index.html (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/cvi/index.html) just in case)
+from https://ssb22.user.srcf.net/cvi/ (also [mirrored on GitLab Pages](https://ssb22.gitlab.io/cvi/) just in case)
 
 # Cortical visual impairment
 
