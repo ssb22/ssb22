@@ -33,7 +33,7 @@ I was also due to play my version as a solo at a 2006 charity concert which some
 
 In 2007 they arranged a second concert at which I premiered a couple of my father’s flute solos, and they *did* start a Chinese orchestra, calling it **Cambridge University Chinese Orchestra Society** (CUCOS), which I’ve supported since 2008.
 
-CUCOS also collaborated with students from the University of Warwick at Coventry, who set up a small Chinese-instrument ensemble called WCOS from 2011 onwards.
+CUCOS also collaborated with students from the University of Warwick at Coventry, who set up a small Chinese-instrument ensemble called WCOS from 2011 onwards, plus a small ensemble set up in Oxford end-2022.
 
 ## Joint Chinese-Western ensemble
 
