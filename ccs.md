@@ -739,3 +739,5 @@ The October introductory freshers’ meetup in Cambridge did not appear to happe
 
 They still perform an annual play with English subtitles projected for non-Chinese, and it’s usually possible to ask in advance for the script if you can’t see projector screens, or if you’d like to try following the Mandarin in [Wenlin](wenlin.md) or whatever.
 
+The 2025-26 committee’s website is at [CambridgeCCS.org](https://www.cambridgeccs.org/).
+

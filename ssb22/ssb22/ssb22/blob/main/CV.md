@@ -3,7 +3,7 @@ Part-time roles only for medical reasons.
 * My track record demonstrates part-time achievement *is* possible
 * but I've had 6-figure offers rescinded after hiring managers mistakenly thought C-suite could accept this limitation.  To avoid wasting everyone’s time, please ensure your company can *genuinely* accommodate part-time work before initiating a lengthy interview process.  I am upfront about this: no amount of compensation can alter my medical needs.  Thank you for your understanding.
 
-**Cambridge University: Computer Science supervisor** (2001-2025). Tutored small groups in architecture, compiler construction, concurrent systems, data structures, functional programming, Hoare logic, HCI, natural language processing, networking, operating systems, Prolog, security, type theory and VLSI. Includes special-needs tuition and advocacy/coaching.
+**Cambridge University: Computer Science supervisor** (2001–2026). Tutored small groups in architecture, compiler construction, concurrent systems, data structures, functional programming, Hoare logic, HCI, natural language processing, networking, operating systems, Prolog, security, type theory and VLSI. Includes special-needs tuition and advocacy/coaching.
 
 **Oracle: Principal Software Engineer** (2018–24).  Responsible for Chinese, Japanese, Thai, Khmer keyword extraction, Javascript crawling, scraping, parser; C++, Python (2 and 3), some Golang and a DSL on Docker, Jenkins/GitLab, OCI; innovation idea earned them $250k/year
 
@@ -24,7 +24,7 @@ Also worked some days for Grapeshot Ltd resulting in the above Oracle position a
 
 **ACCU.org** (professionalism in programming association): disabilities officer 1997–2007; joined 1994, honorary member since 2004; wrote 200+ [articles](../../../../../cvu.md), book reviews, code critiques etc.
 
-**Cambridge University Hospital Pathology Lab**: volunteer coded [a bioinformatics tool](https://github.com/ssb22/PrimerPooler/) in C (bit patterns & OpenMP), cited in 40+ genetics papers, accepted by FreeBSD biology team
+**Cambridge University Hospital Pathology Lab**: volunteer coded [a bioinformatics tool](https://github.com/ssb22/PrimerPooler/) in C (bit patterns & OpenMP), cited in 50+ genetics papers, accepted by FreeBSD biology team
 
 **IBSA**: volunteer coded for charitable work for the blind: [DAISY book generator](https://github.com/ssb22/indexer?tab=readme-ov-file#anemone-daisy-maker) (synchronised speech & text) + catalogue listers (JSON, OPDS, ONIX) using FastAPI/pytest & AWS Lambda
 

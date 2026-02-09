@@ -3,6 +3,8 @@ from https://ssb22.user.srcf.net/old-ccs/cucos.html (also [mirrored on GitLab Pa
 
 # Chinese music and CUCOS
 
+The next concert is in Robinson college on Friday 27<sup>th</sup> February at 6pm.
+
 In 2002 a Chinese visiting scholar who was returning to China gave me a CD called “The Essence of Traditional Chinese Music (中國民樂大全) vol.3”.
 
 Details and track list:
