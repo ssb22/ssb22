@@ -3,7 +3,7 @@ from https://ssb22.user.srcf.net/old-ccs/cucos.html (also [mirrored on GitLab Pa
 
 # Chinese music and CUCOS
 
-The next concert is tonight (Friday 27<sup>th</sup> February) 6pm in Robinson college.
+The next concert is at 7pm on Sunday 8<sup>th</sup> March in Downing Place.
 
 In 2002 a Chinese visiting scholar who was returning to China gave me a CD called “The Essence of Traditional Chinese Music (中國民樂大全) vol.3”.
 
