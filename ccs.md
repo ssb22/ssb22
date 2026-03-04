@@ -712,6 +712,8 @@ CCS’s membership fee was set back to zero in October 2020, in response to the 
 > 2023/24 — Secret Love in Utopia (暗恋桃花源 by 赖声川) *and* Thunderstorm (雷雨 by 曹禺)
 
 > 2024/25 — Dunhuang (敦煌) (original musical in English by graduate composer [Jingyu Chen](https://www.jingyuchen.com/), also at Edinburgh Fringe in summer)
+
+> 2025/26 — Orphan of Zhao (赵孤) (translation back into Chinese of James Fenton’s retelling of the 13<sup>th</sup>-century play, at the ADC theatre with support from Caius, some CUCOS musicians and the CSSA)
 * In 2005 CCS started a termly Chinese literature magazine called *Yuan* or *Yan Wu Yan* 言吾言 (I tried to obtain spare copies to archive, but they were all taken by current students).
   * Magazine production continued until 2015. It was then replaced by Yearbooks of leavers’ information for 2015, 2016 and 2021.
   * Back in 1999 CCS had also helped to distribute the last issue of *The Seres*, which introduced me to the [Xu Zhimo poem I retranslated](https://ssb22.user.srcf.net/poem/). The Seres is available in the Rare Books Room of the University Library under code Cam.b.41.63.1- (not borrowable).
@@ -731,9 +733,9 @@ This picture from 2018’s OCamp advertising made the founders feel old: 82 stud
 
 They called CCS a “big family” for mainland undergraduates (as opposed to the “postgraduate” CSSA and the “non-mainland” ChiSoc etc)—this was formalised in July 2020 when the committee decided to change the society’s Chinese name to *Cambridge University China Undergraduate Student Association* (剑桥大学中国本科学生会) and the following February they re-registered with university authorities (having been de-registered due to a technicality) and used the English name “Cambridge University Chinese Undergraduate Society” (CUCUS), ![logo2016.jpg](https://ssb22.user.srcf.net/old-ccs/logo2016.jpg) still internally abbreviated to CCS for continuity (and so they didn’t have to change the logo which now included the letters “CCS”). They said they still wanted to promote culture, but the new name communicates to potential members and sponsors their increased role as a “hub” for Chinese undergraduates (although it’s still open to others—all registered societies must be).
 
-In 2024 publicity they changed “Undergraduate” simply to “Students” (剑桥大学中国学生会) but “undergraduate” was kept in the registered name until they were again deregistered on a technicality in early 2025 the resolution of which is still pending.
+In 2024 publicity they changed “Undergraduate” simply to “Students” (剑桥大学中国学生会) but “undergraduate” was kept in the registered name until they were again deregistered on a technicality in early 2025 the resolution of which is still pending. Then the 2026 play publicity expanded CCS to just “Cambridge Chinese Society” potentially confusing it with the older Hong Kong based Cambridge University Chinese Society known as ChiSoc (or possibly the Cambridge Chinese School which had previously asked the Cambridge University Chinese Culture Society to use their full acronym CUCCS and not just CCS in non-university publicity); the Chinese name was still 剑桥大学中国学生会 here.
 
-(I hope they do fix this as being registered means the establishment helps them keep their accounts in order and handle complaints; going it alone is not recommended, which is why I had pushed them to do it properly at the beginning.)
+I hope they do fix the deregistration, as being registered means the establishment helps them keep their accounts in order and handle complaints; going it alone is not recommended, which is why I had pushed them to do it properly at the beginning.
 
 The October introductory freshers’ meetup in Cambridge did not appear to happen in 2024 or 2025—they still had a freshers’ fair stand, so presumably *were* still inviting those unable to reach their in-China camps, but the stand pointed people only at a WeChat announcement account that didn’t say anything about an introductory meeting. I don’t have any information about a decision to suspend this, which seems unusual for a Cambridge club.
 
