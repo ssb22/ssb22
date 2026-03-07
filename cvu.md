@@ -4,6 +4,9 @@ from https://ssb22.user.srcf.net/papers/cvu.html (also [mirrored on GitLab Pages
 # C Vu articles
 
 I wrote for the [ACCU.org](http://accu.org) members-only journal “C Vu” (ISSN 1354-3164, not formally peer-reviewed but well-edited) starting from 1995. I found it to be a good learning environment: if I wrote an article with a misunderstanding, someone would correct it (and the journal being members-only reduces the odds of that situation later being misjudged by an overly-hasty potential employer or similar). The journal’s style has changed a bit since the early days. Here is a list of my articles for reference.
+* Nine-carat Gold Open Access?: C Vu, 38(1):11-12, March 2026. (journal websites can be taken offline)
+* A Look at Svelte: C Vu, 38(1):6-7, March 2026.
+* Scraping the Bins with Rubbish Code: C Vu, 38(1):5-6, March 2026. (Alexa skill to scrape municipal waste collection schedules)
 * Book review: Vector Search with JavaScript by Ben Greenberg: C Vu, 37(6):15-16, January 2026.
 * Five Years On: C Vu, 37(6):6, January 2026. (updating 3 articles from 2020)
 * Vibe-coding a Therapy Tool: C Vu, 37(5):3-6, November 2025. (server with human therapist supervising multiple AI conversations; limitations of LLM coding)
