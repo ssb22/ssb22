@@ -3,8 +3,6 @@ from https://ssb22.user.srcf.net/old-ccs/cucos.html (also [mirrored on GitLab Pa
 
 # Chinese music and CUCOS
 
-The next concert is at 7pm on Sunday 8<sup>th</sup> March in Downing Place.
-
 In 2002 a Chinese visiting scholar who was returning to China gave me a CD called “The Essence of Traditional Chinese Music (中國民樂大全) vol.3”.
 
 Details and track list:
@@ -54,7 +52,7 @@ My father’s piece was not played, but it did result in others being more incli
 * in 2012 CUCOS commissioned a professional composer—Ruth Chan—to write a (modern-style) joint piece;
 * and students composed and arranged three joint pieces in 2018, two in 2019 (one of which quoted my [Xu Zhimo translation](https://ssb22.user.srcf.net/poem/)), and four for an all-joint 2020 concert before the COVID19 lockdown.
 
-The post-lockdown activities of CUCOS have also been all-joint so far: the 2023, 2024 and 2025 concerts each had 1 composition and 5 or 6 full-group arrangements plus smaller arrangements.
+The post-lockdown activities of CUCOS have also been all-joint so far: concerts from 2023 through 2026 each had 1 composition and 5 or 6 full-group arrangements plus smaller arrangements.
 
 As for my father’s piece, in 2014 he suggested it be reworked and submitted to a Singapore Chinese Orchestra competition he’d seen advertised in a music magazine, but he changed his mind when he heard Singapore is one of the very few countries in the world that still imprisons conscientious objectors—he wasn’t religious but he *was* anti-war. Shortly before his death in 2016 he suggested reworking for a Hong Kong Chinese Orchestra competition, which had published over 2 hours of video explaining their instruments, but we weren’t able to process all that information in time.
 
