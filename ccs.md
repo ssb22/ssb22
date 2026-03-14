@@ -713,7 +713,7 @@ CCS’s membership fee was set back to zero in October 2020, in response to the 
 
 > 2024/25 — Dunhuang (敦煌) (original musical in English by graduate composer [Jingyu Chen](https://www.jingyuchen.com/), also at Edinburgh Fringe in summer)
 
-> 2025/26 — Orphan of Zhao (赵孤) (translation back into Chinese of James Fenton’s retelling of the 13<sup>th</sup>-century play, at the ADC theatre with support from Caius, some CUCOS musicians and the CSSA)
+> 2025/26 — Orphan of Zhao (赵孤) (translation back into Chinese of James Fenton’s retelling of the 13<sup>th</sup>-century play, at the ADC theatre with support from Caius and the CSSA with a prerecorded soundtrack from some CUCOS musicians)
 * In 2005 CCS started a termly Chinese literature magazine called *Yuan* or *Yan Wu Yan* 言吾言 (I tried to obtain spare copies to archive, but they were all taken by current students).
   * Magazine production continued until 2015. It was then replaced by Yearbooks of leavers’ information for 2015, 2016 and 2021.
   * Back in 1999 CCS had also helped to distribute the last issue of *The Seres*, which introduced me to the [Xu Zhimo poem I retranslated](https://ssb22.user.srcf.net/poem/). The Seres is available in the Rare Books Room of the University Library under code Cam.b.41.63.1- (not borrowable).
