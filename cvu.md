@@ -170,67 +170,44 @@ I wrote for the [ACCU.org](http://accu.org) members-only journal “C Vu” (IS
 * A Little Thought on Qualifications.: C Vu, 10(1):44-45, November 1997.
 * Automatic Optimisation Aids.: C Vu, 10(1):45-46, November 1997.
 * Book review: Beyond MIDI: The Handbook of Musical Codes.: C Vu, 9(6):72-73, September 1997.
-  * Palmtop C++.: C Vu, 9(5):38-40, July 1997. (This was about programming the Psion Series 3a)
-  * Dr Dobb’s Journal (report).: C Vu, 9(5):6-7, July 1997. Also C Vu, 9(6):6-7, September 1997; C Vu, 10(1):8-10, November 1997; C Vu, 10(2):15, January 1998.
-  * ACCU and the Disabled.: C Vu, 9(4), May 1997.
-  * The “Professional Touch”: Using Double Bezier Cubics.: C Vu, 9(4), May 1997. (Trying to improve my music program’s font)
-  * Introducing PCM.: C Vu, 9(4), May 1997.
-  * Randomness.: C Vu, 9(3):7-9, March 1997. (Responses were in the following issue)
-  * Automatic Calibration and “Heuristic” Programming.: C Vu, 9(3):10, March 1997.
-  * Computer Music Composition.: C Vu, 8(6):40-41, September 1996.
-  * HP LaserJet Programming (review).: C Vu, 8(5):62, July 1996.
-  * Writing Applications for the Visually Impaired.: C Vu, 8(4):26-28, May 1996.
-  * Parallel and Distributed Background Processing.: C Vu, 8(4):30-32, May 1996.
-  * Multi-Player Games.: C Vu, 8(4):24-26, May 1996. (I wrote a networked text-adventure for blind students at New College Worcester)
-  * Using Persistent Data.: C Vu, 8(3):34, March 1996.
-  * Increase your Program’s Execution Speed?: C Vu, 8(1):27-32, November 1995.
-  * Various learning discussions (in letters to the editor etc): “Write First—Join After” C Vu, 7(4), May 1995; C Vu, 7(5):30-32, July 1995; C Vu, 7(6):44-47, September 1995; C Vu, 8(1):12-13, November 1995; C Vu, 8(3):-56, March 1996; C Vu, 8(4):15, May 1996; C Vu, 9(2), January 1997; C Vu, 9(4), May 1997; C Vu, 9(6):18-19, September 1997; C Vu, 10(1):16-18, November 1997.
+* Palmtop C++.: C Vu, 9(5):38-40, July 1997. (This was about programming the Psion Series 3a)
+* Dr Dobb’s Journal (report).: C Vu, 9(5):6-7, July 1997. Also C Vu, 9(6):6-7, September 1997; C Vu, 10(1):8-10, November 1997; C Vu, 10(2):15, January 1998.
+* ACCU and the Disabled.: C Vu, 9(4), May 1997.
+* The “Professional Touch”: Using Double Bezier Cubics.: C Vu, 9(4), May 1997. (Trying to improve my music program’s font)
+* Introducing PCM.: C Vu, 9(4), May 1997.
+* Randomness.: C Vu, 9(3):7-9, March 1997. (Responses were in the following issue)
+* Automatic Calibration and “Heuristic” Programming.: C Vu, 9(3):10, March 1997.
+* Computer Music Composition.: C Vu, 8(6):40-41, September 1996.
+* HP LaserJet Programming (review).: C Vu, 8(5):62, July 1996.
+* Writing Applications for the Visually Impaired.: C Vu, 8(4):26-28, May 1996.
+* Parallel and Distributed Background Processing.: C Vu, 8(4):30-32, May 1996.
+* Multi-Player Games.: C Vu, 8(4):24-26, May 1996. (I wrote a networked text-adventure for blind students at New College Worcester)
+* Using Persistent Data.: C Vu, 8(3):34, March 1996.
+* Increase your Program’s Execution Speed?: C Vu, 8(1):27-32, November 1995.
+* Various learning discussions (in letters to the editor etc): “Write First—Join After” C Vu, 7(4), May 1995; C Vu, 7(5):30-32, July 1995; C Vu, 7(6):44-47, September 1995; C Vu, 8(1):12-13, November 1995; C Vu, 8(3):-56, March 1996; C Vu, 8(4):15, May 1996; C Vu, 9(2), January 1997; C Vu, 9(4), May 1997; C Vu, 9(6):18-19, September 1997; C Vu, 10(1):16-18, November 1997.
 
 There might be a couple more early ones I missed in this list.
 
-  Copyright and Trademarks:
-
-   All material © Silas S. Brown unless otherwise stated.
-
-  Acrobat is an Adobe trademark.
-
-  Android is a trademark of Google LLC.
-
-  Apache is a registered trademark of The Apache Software Foundation, which from February to July 2023 acknowledged the Chiricahua Apache, the Choctaw Apache, the Fort Sill Apache, the Jicarilla Apache, the Mescalero Apache, the Lipan Apache, the Apache Tribe of Oklahoma, the Plains Apache, the San Carlos Apache, the Tonto Apache, the White Mountain Apache, the Yavapai Apache and the Apache Alliance.
-
-  AppEngine is possibly a trademark of Google LLC.
-
-  Apple is a trademark of Apple Inc.
-
-  Debian is a trademark owned by Software in the Public Interest, Inc.
-
-  FreeBSD is a registered trademark of the FreeBSD Foundation.
-
-  GitHub is a trademark of GitHub Inc.
-
-  HTC and Touch are trademarks of HTC Corporation.
-
-  Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-
-  Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
-
-  M3GAN is a trademark of Universal City Studios LLC.
-
-  Microsoft is a registered trademark of Microsoft Corp.
-
-  Python is a trademark of the Python Software Foundation.
-
-  Raspberry Pi is a trademark of the Raspberry Pi Foundation.
-
-  RISC OS is a trademark of Pace Micro Technology Plc which might now have passed to RISC OS Ltd but I was unable to find definitive documentation.
-
-  Twitter and Tweet are trademarks of X Inc (previously Twitter Inc).
-
-  Unix is a trademark of The Open Group.
-
-  Wi-Fi is a trademark of the Wi-Fi Alliance.
-
-  Windows is a registered trademark of Microsoft Corp.
-
-  Any other [trademarks](https://ssb22.user.srcf.net/trademarks.html) I mentioned without realising are trademarks of their respective holders.
-
+Copyright and Trademarks:
+All material © Silas S. Brown unless otherwise stated.
+Acrobat is an Adobe trademark.
+Android is a trademark of Google LLC.
+Apache is a registered trademark of The Apache Software Foundation, which from February to July 2023 acknowledged the Chiricahua Apache, the Choctaw Apache, the Fort Sill Apache, the Jicarilla Apache, the Mescalero Apache, the Lipan Apache, the Apache Tribe of Oklahoma, the Plains Apache, the San Carlos Apache, the Tonto Apache, the White Mountain Apache, the Yavapai Apache and the Apache Alliance.
+AppEngine is possibly a trademark of Google LLC.
+Apple is a trademark of Apple Inc.
+Debian is a trademark owned by Software in the Public Interest, Inc.
+FreeBSD is a registered trademark of the FreeBSD Foundation.
+GitHub is a trademark of GitHub Inc.
+HTC and Touch are trademarks of HTC Corporation.
+Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
+Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
+M3GAN is a trademark of Universal City Studios LLC.
+Microsoft is a registered trademark of Microsoft Corp.
+Python is a trademark of the Python Software Foundation.
+Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+RISC OS is a trademark of Pace Micro Technology Plc which might now have passed to RISC OS Ltd but I was unable to find definitive documentation.
+Twitter and Tweet are trademarks of X Inc (previously Twitter Inc).
+Unix is a trademark of The Open Group.
+Wi-Fi is a trademark of the Wi-Fi Alliance.
+Windows is a registered trademark of Microsoft Corp.
+Any other [trademarks](https://ssb22.user.srcf.net/trademarks.html) I mentioned without realising are trademarks of their respective holders.
