@@ -1714,42 +1714,74 @@ There is certainly scope for further projects and further research.
 
 ## Bibliography
 * [1]: The KLIC Association. *KLIC (an implementation of the parallel logic programming language KL/1)*. c/o Chikayama Lab., Department of Frontier Informatics, School of Frontier Science, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan. `http://www.klic.org/software/klic/`.
-* [2]: Silas S. Brown. *Manuscript Writer*. [`http://www.flatline.org.uk/~silas/mwrhome/`](https://ssb22.user.srcf.net/mwrhome/).
-* [3]: Silas S. Brown. *Web Access Gateway*. [`http://www.flatline.org.uk/~silas/access.html`](https://ssb22.user.srcf.net/access/).
-* [4]: Arkkra Enterprises. *Music Publisher (Mup)*. `http://www.arkkra.com/`.
-* [5]: Brent Hugh et al. *Braille music discussion list*. `http://www.topica.com/lists/braillem/`.
-* [6]: Han-Wen Nienhuys et al. *LilyPond - The GNU Project Music Typesetter*. `http://www.cs.uu.nl/~hanwen/lilypond/`.
-* [7]: Scott E. Hudson et al. *CUP Parser Generator for Java*. `http://www.cs.princeton.edu/~appel/modern/java/CUP/`.
-* [8]: Phil Farrand. *Enigma Transportable File Format*. Coda Music Technology, 6210 Bury Drive, Eden Prairie, MN 55346-1718, USA, 1987. U.S. patent #4,960,031.
-* [9]: Ben & Jonathan Finn. *Sibelius: The Music Notation Software*. Sibelius Software Ltd, 75 Burleigh St, Cambridge CB1 1DJ. `http://www.sibelius-software.com/`.
-* [10]: Roger Firman. *Braille Musical Notation: An Overview*, chapter 22. In Selfridge-Field [26], 1997.
-* [11]: Cindy Grande. *The Notation Interchange File Format*, chapter 31. In Selfridge-Field [26], 1997.
-* [12]: Philip Hazel. *Philip’s Music Scribe*. 33 Metcalfe Road, Cambridge CB4 2DB.
-* [13]: Walter B. Hewlett. *MuseData: Multipurpose Representation*, chapter 27. In Selfridge-Field [26], 1997.
-* [14]: Walter B. Hewlett, Eleanor Selfridge-Field, David Cooper, Brent A. Field, Kia-Chuan Ng, and Peter Sitter. *MIDI*, chapter 2. In Selfridge-Field [26], 1997.
-* [15]: Red Hill. *Avoiding Poor Motherboards*, Oct 1998. `http://www.redhill.net.au/hw-boards3.html`.
-* [16]: Scientific Computing Associates Inc. *C-Linda User’s Guide and Reference Manual*.
-* [17]: Mitsuji Kadota. *Japanese Braille Tutorial*, Oct 1997. `http://buri.sfc.keio.ac.jp/access/arc/NetBraille/etc/brttrl.html`.
-* [18]: Tim Kientzle. *A Programmer’s Guide to Sound*. Addison Wesley Developers Press, 1998.
-* [19]: Donald E. Knuth. *The T<sub>E</sub>Xbook*. Computers and Typesetting. Addison-Wesley, 1986.
-* [20]: Jay H. Lang. *IBM MQSeries Integrator V2.0: The Next Generation Message Broker*. `http://www-4.ibm.com/software/ts/mqseries/library/whitepapers/mqintegrator/msgbrokers.html`.
-* [21]: Dirk Laurie. *M-Tx: Music from Text*, Nov 1998. [`ftp://ftp.gmd.de/music/musixtex/software/mtx/mtxdoc.ps`](ftp://ftp.gmd.de/music/musixtex/software/mtx/mtxdoc.ps).
-* [22]: Bill McCann. *GOODFEEL Braille Music Translator*. Dancing Dots Braille Music Technology, 1754 Quarry Lane, P.O. Box 927, Valley Forge, PA 19482, USA. `http://www.netaxs.com/~ddots/`.
-* [23]: Wayne Myers. *BETSIE (BBC Education Text to Speech Internet Enhancer)*. `http://www.bbc.co.uk/education/betsie/`.
-* [24]: The Braille Music Subcommittee of the World Blind Union. *New International Manual of Braille Music Notation*. Studie-en Vakbibliotheek voor Visueelen Anderszins Gehandicapten (SVB), Molenpad 2, 1016 GM Amsterdam, 1996. Sold in the UK by RNIB Customer Services, PO Box 173 Peterborough PE2 6WS.
-* [25]: Eleanor Selfridge-Field. *Beyond Codes: Issues in Musical Representation*, chapter 33. In [26], 1997.
-* [26]: Eleanor Selfridge-Field, editor. *Beyond MIDI: The Handbook of Musical Codes*. MIT Press, 1997.
-* [27]: Eleanor Selfridge-Field, editor. *DARMS*, chapter 11-15. In Selfridge-Field [26], 1997.
-* [28]: Don Simons. *PMX - a Preprocessor for MusiXT<sub>E</sub>X*. Dr. Don’s PC and Harpsichord Emporium, Redondo Beach, California, USA, Dec 1999. [`ftp://ftp.gmd.de/music/musixtex/software/pmx/pmx210.ps`](ftp://ftp.gmd.de/music/musixtex/software/pmx/pmx210.ps).
-* [29]: Leland Smith. *SCORE*, chapter 19. In Selfridge-Field [26], 1997.
-* [30]: 4 Tier Software. *OpenMOM Message Broker - White Paper*, 1999. `http://www.xing.com/whitepaper.html`.
-* [31]: Daniel Taupin, Ross Mitchell, and Andreas Egler. *MusiXT<sub>E</sub>X: Using T<sub>E</sub>X to write polyphonic or instrumental music*, Apr 1999. [`ftp://ftp.gmd.de/music/musixtex/musixdoc.ps`](ftp://ftp.gmd.de/music/musixtex/musixdoc.ps).
-* [32]: Guido van Rossum et al. *Python: An Interpreted, Interactive, Object-oriented Programming Language*. `http://www.python.org/`.
-* [33]: Chris Walshaw. *ABC2MT<sub>E</sub>X: An easy way of transcribing folk and traditional music*. School of Maths, University of Greenwich, London, Jan 1997.
+
+  * [2]: Silas S. Brown. *Manuscript Writer*. [`http://www.flatline.org.uk/~silas/mwrhome/`](https://ssb22.user.srcf.net/mwrhome/).
+
+    * [3]: Silas S. Brown. *Web Access Gateway*. [`http://www.flatline.org.uk/~silas/access.html`](https://ssb22.user.srcf.net/access/).
+
+      * [4]: Arkkra Enterprises. *Music Publisher (Mup)*. `http://www.arkkra.com/`.
+
+        * [5]: Brent Hugh et al. *Braille music discussion list*. `http://www.topica.com/lists/braillem/`.
+
+          * [6]: Han-Wen Nienhuys et al. *LilyPond - The GNU Project Music Typesetter*. `http://www.cs.uu.nl/~hanwen/lilypond/`.
+
+            * [7]: Scott E. Hudson et al. *CUP Parser Generator for Java*. `http://www.cs.princeton.edu/~appel/modern/java/CUP/`.
+
+              * [8]: Phil Farrand. *Enigma Transportable File Format*. Coda Music Technology, 6210 Bury Drive, Eden Prairie, MN 55346-1718, USA, 1987. U.S. patent #4,960,031.
+
+                * [9]: Ben & Jonathan Finn. *Sibelius: The Music Notation Software*. Sibelius Software Ltd, 75 Burleigh St, Cambridge CB1 1DJ. `http://www.sibelius-software.com/`.
+
+                  * [10]: Roger Firman. *Braille Musical Notation: An Overview*, chapter 22. In Selfridge-Field [26], 1997.
+
+                    * [11]: Cindy Grande. *The Notation Interchange File Format*, chapter 31. In Selfridge-Field [26], 1997.
+
+                      * [12]: Philip Hazel. *Philip’s Music Scribe*. 33 Metcalfe Road, Cambridge CB4 2DB.
+
+                        * [13]: Walter B. Hewlett. *MuseData: Multipurpose Representation*, chapter 27. In Selfridge-Field [26], 1997.
+
+                          * [14]: Walter B. Hewlett, Eleanor Selfridge-Field, David Cooper, Brent A. Field, Kia-Chuan Ng, and Peter Sitter. *MIDI*, chapter 2. In Selfridge-Field [26], 1997.
+
+                            * [15]: Red Hill. *Avoiding Poor Motherboards*, Oct 1998. `http://www.redhill.net.au/hw-boards3.html`.
+
+                              * [16]: Scientific Computing Associates Inc. *C-Linda User’s Guide and Reference Manual*.
+
+                                * [17]: Mitsuji Kadota. *Japanese Braille Tutorial*, Oct 1997. `http://buri.sfc.keio.ac.jp/access/arc/NetBraille/etc/brttrl.html`.
+
+                                  * [18]: Tim Kientzle. *A Programmer’s Guide to Sound*. Addison Wesley Developers Press, 1998.
+
+                                    * [19]: Donald E. Knuth. *The T<sub>E</sub>Xbook*. Computers and Typesetting. Addison-Wesley, 1986.
+
+                                      * [20]: Jay H. Lang. *IBM MQSeries Integrator V2.0: The Next Generation Message Broker*. `http://www-4.ibm.com/software/ts/mqseries/library/whitepapers/mqintegrator/msgbrokers.html`.
+
+                                        * [21]: Dirk Laurie. *M-Tx: Music from Text*, Nov 1998. [`ftp://ftp.gmd.de/music/musixtex/software/mtx/mtxdoc.ps`](ftp://ftp.gmd.de/music/musixtex/software/mtx/mtxdoc.ps).
+
+                                          * [22]: Bill McCann. *GOODFEEL Braille Music Translator*. Dancing Dots Braille Music Technology, 1754 Quarry Lane, P.O. Box 927, Valley Forge, PA 19482, USA. `http://www.netaxs.com/~ddots/`.
+
+                                            * [23]: Wayne Myers. *BETSIE (BBC Education Text to Speech Internet Enhancer)*. `http://www.bbc.co.uk/education/betsie/`.
+
+                                              * [24]: The Braille Music Subcommittee of the World Blind Union. *New International Manual of Braille Music Notation*. Studie-en Vakbibliotheek voor Visueelen Anderszins Gehandicapten (SVB), Molenpad 2, 1016 GM Amsterdam, 1996. Sold in the UK by RNIB Customer Services, PO Box 173 Peterborough PE2 6WS.
+
+                                                * [25]: Eleanor Selfridge-Field. *Beyond Codes: Issues in Musical Representation*, chapter 33. In [26], 1997.
+
+                                                  * [26]: Eleanor Selfridge-Field, editor. *Beyond MIDI: The Handbook of Musical Codes*. MIT Press, 1997.
+
+                                                    * [27]: Eleanor Selfridge-Field, editor. *DARMS*, chapter 11-15. In Selfridge-Field [26], 1997.
+
+                                                      * [28]: Don Simons. *PMX - a Preprocessor for MusiXT<sub>E</sub>X*. Dr. Don’s PC and Harpsichord Emporium, Redondo Beach, California, USA, Dec 1999. [`ftp://ftp.gmd.de/music/musixtex/software/pmx/pmx210.ps`](ftp://ftp.gmd.de/music/musixtex/software/pmx/pmx210.ps).
+
+                                                        * [29]: Leland Smith. *SCORE*, chapter 19. In Selfridge-Field [26], 1997.
+
+                                                          * [30]: 4 Tier Software. *OpenMOM Message Broker - White Paper*, 1999. `http://www.xing.com/whitepaper.html`.
+
+                                                            * [31]: Daniel Taupin, Ross Mitchell, and Andreas Egler. *MusiXT<sub>E</sub>X: Using T<sub>E</sub>X to write polyphonic or instrumental music*, Apr 1999. [`ftp://ftp.gmd.de/music/musixtex/musixdoc.ps`](ftp://ftp.gmd.de/music/musixtex/musixdoc.ps).
+
+                                                              * [32]: Guido van Rossum et al. *Python: An Interpreted, Interactive, Object-oriented Programming Language*. `http://www.python.org/`.
+
+                                                                * [33]: Chris Walshaw. *ABC2MT<sub>E</sub>X: An easy way of transcribing folk and traditional music*. School of Maths, University of Greenwich, London, Jan 1997.
 
 # Appendix A
 
-The Musical Attributes Database
+                                                                  The Musical Attributes Database
 
 Attribute name - Context - Values - Notes
 
@@ -1833,7 +1865,7 @@ volume-string - type=volume, type=volume-change - ppp, pp, p, mp, mf, f, ff, fff
 
 # Appendix B
 
-The Braille Signs Database
+                                                                  The Braille Signs Database
 
 Sign - Name - Category - Criteria
 
@@ -2111,9 +2143,9 @@ Sign - Name - Category - Criteria
 
 # Appendix C
 
-Contact details
+                                                                  Contact details
 
-Should anyone wish to contact me about this project after I have left Cambridge, there are a number of email addresses I have at present that might remain operational for a few years. Feel free to canvass these addresses in order to find whether any of them still work.
+                                                                   Should anyone wish to contact me about this project after I have left Cambridge, there are a number of email addresses I have at present that might remain operational for a few years. Feel free to canvass these addresses in order to find whether any of them still work.
 ```
 
 (email address removed from HTML version, to stop spam)
@@ -2123,18 +2155,19 @@ Should anyone wish to contact me about this project after I have left Cambridge,
 (email address removed from HTML version, to stop spam)
 (email address removed from HTML version, to stop spam)
 ```
-You can also try my home address:
+                                                                   You can also try my home address:
 ```
 
 (parents' address removed from HTML version)
 ```
+
 # Appendix D
 
-Project Proposal
+                                                                  Project Proposal
 
 ### Silas S. Brown (ssb22), St John’s College
 
-A Representation and Conversion System for Musical Notation
+                                                                   A Representation and Conversion System for Musical Notation
 
 # A Representation and Conversion System for Musical Notation
 
@@ -2142,43 +2175,45 @@ A Representation and Conversion System for Musical Notation
 
 ## D.1  Introduction
 
-There are numerous ASCII-based input languages for driving music typesetting software (for example, DARMS, Score, GNU Lilypond, PMS, MUP, ABC, MuT<sub>E</sub>X, MWR and so on), and it would be useful to be able to convert between some of these. It would also be useful to convert these formats into Braille, since there is a large repository of music existing in these formats because most music publishers keep electronic copies of their scores for future editions<sup>36</sup>. Making use of this data is likely to yield much better results than attempting to transcribe from MIDI, which is a performance-based format that does not record details of notation, and although there is a large repository of MIDI files in the public domain, their average quality is fairly low from a notation-based viewpoint.
+                                                                   There are numerous ASCII-based input languages for driving music typesetting software (for example, DARMS, Score, GNU Lilypond, PMS, MUP, ABC, MuT<sub>E</sub>X, MWR and so on), and it would be useful to be able to convert between some of these. It would also be useful to convert these formats into Braille, since there is a large repository of music existing in these formats because most music publishers keep electronic copies of their scores for future editions<sup>36</sup>. Making use of this data is likely to yield much better results than attempting to transcribe from MIDI, which is a performance-based format that does not record details of notation, and although there is a large repository of MIDI files in the public domain, their average quality is fairly low from a notation-based viewpoint.
 
-Since there are a variety of Braille music standards in use worldwide, it would not be feasible to do the necessary research and implementation to support all of them within this project, and this is further complicated by the fact that the standards can change, and individuals and organisations can have non-standard preferences in their notation. It is therefore necessary to parameterise the format of Braille that can be used, so that it can be customised. An ideal extension of this would be to parameterise formats in general, so that, within reason, support for arbitrary new input and output formats can be added to the program with scripts.
+                                                                   Since there are a variety of Braille music standards in use worldwide, it would not be feasible to do the necessary research and implementation to support all of them within this project, and this is further complicated by the fact that the standards can change, and individuals and organisations can have non-standard preferences in their notation. It is therefore necessary to parameterise the format of Braille that can be used, so that it can be customised. An ideal extension of this would be to parameterise formats in general, so that, within reason, support for arbitrary new input and output formats can be added to the program with scripts.
 
-This project aims to design and implement a set of data structures for representing musical notation in a general and extensible way, a language for accessing the structures, some parser generator scripts for reading a number of ASCII-based formats into the structures, and some code to transform them into a number of output notations including Braille. It should parameterise at least the Braille output, but an extension is to parameterise as much as possible. The end results of this project should include the code, details of the data structures, transcripts of interactions in the language (including error reporting), and an example of a real piece of music that has been converted into various forms.
+                                                                   This project aims to design and implement a set of data structures for representing musical notation in a general and extensible way, a language for accessing the structures, some parser generator scripts for reading a number of ASCII-based formats into the structures, and some code to transform them into a number of output notations including Braille. It should parameterise at least the Braille output, but an extension is to parameterise as much as possible. The end results of this project should include the code, details of the data structures, transcripts of interactions in the language (including error reporting), and an example of a real piece of music that has been converted into various forms.
 
 ## D.2  Resources Required
 
-In the event of my own system being stolen, destroyed, or otherwise rendered inoperable, if I am to continue working efficiently then I will need access to a system running X11 (such as Linux), for reasons described below. Since the PWF can no longer contain such systems, I would need access to one of the CL research systems. (This is only in the event of my own system becoming inoperable.)
+                                                                   In the event of my own system being stolen, destroyed, or otherwise rendered inoperable, if I am to continue working efficiently then I will need access to a system running X11 (such as Linux), for reasons described below. Since the PWF can no longer contain such systems, I would need access to one of the CL research systems. (This is only in the event of my own system becoming inoperable.)
 
-The reasons are as follows: Since I am partially sighted, I need to heavily customise the user interface of whatever system I am using if I am to work efficiently. My own machine (which has a 21” monitor) runs Linux and X11 in low resolution, and makes use of X11’s ability to scroll around a desktop that is larger than the screen, so workspace is not overly constricted by the low resolution and large print size. The X servers under Windows NT on the PWF cannot do this, and attempts to make it readable usually result in menus and dialogues being printed off the edge of the desktop and impossible to get to. Although the Computing Service has set up a terminal with a low-resolution screen, they have been unable to solve the X server problem, and I believe that this is because of Windows NT’s technical limitations<sup>37</sup>. X11, however, is a solution that is known to work.
+                                                                   The reasons are as follows: Since I am partially sighted, I need to heavily customise the user interface of whatever system I am using if I am to work efficiently. My own machine (which has a 21” monitor) runs Linux and X11 in low resolution, and makes use of X11’s ability to scroll around a desktop that is larger than the screen, so workspace is not overly constricted by the low resolution and large print size. The X servers under Windows NT on the PWF cannot do this, and attempts to make it readable usually result in menus and dialogues being printed off the edge of the desktop and impossible to get to. Although the Computing Service has set up a terminal with a low-resolution screen, they have been unable to solve the X server problem, and I believe that this is because of Windows NT’s technical limitations<sup>37</sup>. X11, however, is a solution that is known to work.
 
 ## D.3  Starting Point
 
-I have A-level music and I have a music notation program in C++, capable of writing a number of formats including printed notation, MIDI, and one particular type of Braille notation. It is unlikely that this code will be included in the project (I began coding shortly after beginning to learn C++ in 1993, and much of it is somewhat “hacked out”).
+                                                                   I have A-level music and I have a music notation program in C++, capable of writing a number of formats including printed notation, MIDI, and one particular type of Braille notation. It is unlikely that this code will be included in the project (I began coding shortly after beginning to learn C++ in 1993, and much of it is somewhat “hacked out”).
 
 ## D.4  Substance and Structure
 
-The major work items in this project are:
-1. The design of a flexible abstract data type suitable for representing musical notation in a general way.
-2. The implementation and testing of code to handle that structure, and of a language for accessing and updating it. The language for updating should be designed with the rest of the project in mind, since it is likely that it will be the expected output of the input language parsers and the expected input of the output notation synthesisers.
-3. The design and implementation of an error handler. As well as syntax checking, this should allow user-specified constraints and assertions on the data, and error reports should be helpful, pinpointing the true source of the error as much as is feasible. A fall-back position is to simply state where the error was detected.
-4. Write some parser-generator scripts for reading a number of ASCII-based formats into the internal representation.
-5. Design and implement algorithms for transforming the internal representation into at least parameterised Braille and preferably all the input formats.
-6. Test on a real piece of music.
-7. (Possible extension.) The design of a grammar specification language that can be translated into a script for a parser generator such as yacc, and the implementation of such a translator and a synthesiser that can do the reverse process, ie. marshallise the knowledge base in a form that conforms to the specified grammar. The extra language is needed because pure yacc is Turing-powerful (it can include arbitrary C code) and it would not be feasible to reverse the process to generate a synthesiser unless the yacc input is restricted. This means that it is not feasible for this project to aim to support all possible representation languages (parser generators such as yacc would be inappropriate for that anyway as they are restricted to particular classes of grammar), but it is still possible for the user of the tool to tailor the grammar of the marshallised knowledge base to an extent.
-8. The implementation of error checking on this extra language, to whatever degree proves feasible.
+                                                                   The major work items in this project are:
 
-The data type used for representing musical notation should be flexible and extensible. It should have the following features:
-* It is assumed that it can be held in memory in its entirety.
-* It should not force a “note” as the basic unit, since some events (such as changes in dynamic) can occur independently of notes. The language should include features for addressing such items as “the nth *note* in this bar”, “the nth *event* in this bar” (which may not necessarily be a note), “the nth *attribute* of this note”, “the nth *ornament* of this note” (which will access a subset of the attributes), and so on. **This nomenclature should be extensible.** The most general retrieval query might take the form “make an array of all items of type T that are contained by (or contain) object O”.
-* Items such as phrasemarks and crescendi can be specified in a similar fashion; they can in a sense “contain” other events (“contain” in this instance meaning “applies to the same time as”). The advantage of the above discipline is that, if things such as dynamics and phrasemarks are irrelevant to a particular request, they will be transparent to it; a request for *notes* in a *bar* will not return excessive information about whether those notes also happen to be in a *phrase*, and if the database is extended to include new ways of structuring, existing code that uses it will still work.
-* Constraints and assertions can often take a similar form, such as “no slur is contained by more than one part”<sup>38</sup>; of course, error checking should be more helpful than simply stating that a constraint has failed somewhere.
-* It would be tempting to implement rule systems for inferring facts that are *implied* by the notation. An example of this is “if a note is explicitly flat, then all the notes in the rest of that bar on that stave with the same letter name are *im* plicitly flat (this being a different attribute) unless otherwise stated.” However, this is dangerous because not all input languages actually have this rule; some music programs, when faced with input that means “B flat followed by B”, will make the second B explicitly natural. Since what is explicit and what is implicit depends on the language, it would be better to leave it to the input and output algorithms to keep track of the current state and change it as necessary; however, information about what was originally explicit and what was implicit *should* be kept in the structures, since otherwise information could be unnecessarily lost (for example, editorial “reminder” accidentals that should not technically be there but that the editor wishes to include).
-* However, typesetting decisions (such as the placement of beams) should be treated differently. The aim of this project is not to make a fully-featured music typesetter, and it would be silly to apply, for example, a mediocre beam-inference algorithm to data entering the intermediate format, and then output instructions that explicitly override a far superior algorithm in the destination typesetting software. Indeed, it could be argued that even *explicit* typesetting decisions can be dropped, since they are usually made explicit to overcome a limitation of some particular software package. However, this may not always be the case, and some typesetting or formatting decisions will have to be made when the output is to be read by a human rather than a computer (Braille being an obvious example). This issue must be resolved as part of the project, perhaps involving user customisation.
+                                                                  1. The design of a flexible abstract data type suitable for representing musical notation in a general way.
+                                                                  2. The implementation and testing of code to handle that structure, and of a language for accessing and updating it. The language for updating should be designed with the rest of the project in mind, since it is likely that it will be the expected output of the input language parsers and the expected input of the output notation synthesisers.
+                                                                  3. The design and implementation of an error handler. As well as syntax checking, this should allow user-specified constraints and assertions on the data, and error reports should be helpful, pinpointing the true source of the error as much as is feasible. A fall-back position is to simply state where the error was detected.
+                                                                  4. Write some parser-generator scripts for reading a number of ASCII-based formats into the internal representation.
+                                                                  5. Design and implement algorithms for transforming the internal representation into at least parameterised Braille and preferably all the input formats.
+                                                                  6. Test on a real piece of music.
+                                                                  7. (Possible extension.) The design of a grammar specification language that can be translated into a script for a parser generator such as yacc, and the implementation of such a translator and a synthesiser that can do the reverse process, ie. marshallise the knowledge base in a form that conforms to the specified grammar. The extra language is needed because pure yacc is Turing-powerful (it can include arbitrary C code) and it would not be feasible to reverse the process to generate a synthesiser unless the yacc input is restricted. This means that it is not feasible for this project to aim to support all possible representation languages (parser generators such as yacc would be inappropriate for that anyway as they are restricted to particular classes of grammar), but it is still possible for the user of the tool to tailor the grammar of the marshallised knowledge base to an extent.
+                                                                  8. The implementation of error checking on this extra language, to whatever degree proves feasible.
 
-The language for adding to the knowledge base should ideally be designed such that it is possible to write a yacc (or similar) script of the form:
+                                                                   The data type used for representing musical notation should be flexible and extensible. It should have the following features:
+
+                                                                  * It is assumed that it can be held in memory in its entirety.
+                                                                  * It should not force a “note” as the basic unit, since some events (such as changes in dynamic) can occur independently of notes. The language should include features for addressing such items as “the nth *note* in this bar”, “the nth *event* in this bar” (which may not necessarily be a note), “the nth *attribute* of this note”, “the nth *ornament* of this note” (which will access a subset of the attributes), and so on. **This nomenclature should be extensible.** The most general retrieval query might take the form “make an array of all items of type T that are contained by (or contain) object O”.
+                                                                  * Items such as phrasemarks and crescendi can be specified in a similar fashion; they can in a sense “contain” other events (“contain” in this instance meaning “applies to the same time as”). The advantage of the above discipline is that, if things such as dynamics and phrasemarks are irrelevant to a particular request, they will be transparent to it; a request for *notes* in a *bar* will not return excessive information about whether those notes also happen to be in a *phrase*, and if the database is extended to include new ways of structuring, existing code that uses it will still work.
+                                                                  * Constraints and assertions can often take a similar form, such as “no slur is contained by more than one part”<sup>38</sup>; of course, error checking should be more helpful than simply stating that a constraint has failed somewhere.
+                                                                  * It would be tempting to implement rule systems for inferring facts that are *implied* by the notation. An example of this is “if a note is explicitly flat, then all the notes in the rest of that bar on that stave with the same letter name are *im* plicitly flat (this being a different attribute) unless otherwise stated.” However, this is dangerous because not all input languages actually have this rule; some music programs, when faced with input that means “B flat followed by B”, will make the second B explicitly natural. Since what is explicit and what is implicit depends on the language, it would be better to leave it to the input and output algorithms to keep track of the current state and change it as necessary; however, information about what was originally explicit and what was implicit *should* be kept in the structures, since otherwise information could be unnecessarily lost (for example, editorial “reminder” accidentals that should not technically be there but that the editor wishes to include).
+                                                                  * However, typesetting decisions (such as the placement of beams) should be treated differently. The aim of this project is not to make a fully-featured music typesetter, and it would be silly to apply, for example, a mediocre beam-inference algorithm to data entering the intermediate format, and then output instructions that explicitly override a far superior algorithm in the destination typesetting software. Indeed, it could be argued that even *explicit* typesetting decisions can be dropped, since they are usually made explicit to overcome a limitation of some particular software package. However, this may not always be the case, and some typesetting or formatting decisions will have to be made when the output is to be read by a human rather than a computer (Braille being an obvious example). This issue must be resolved as part of the project, perhaps involving user customisation.
+
+                                                                   The language for adding to the knowledge base should ideally be designed such that it is possible to write a yacc (or similar) script of the form:
 
 > `S: t1 t2 ... tn { puts("..."); };`
 
@@ -2190,7 +2225,7 @@ which will translate a user-described input file into instructions for building 
 
 ## D.5  Plan of Work
 
-The following *outlines* a timetable:
+                                                                   The following *outlines* a timetable:
 
 Week - Work to be done - Deliverables
 
@@ -2214,39 +2249,39 @@ Week - Work to be done - Deliverables
 
 19-20 - Write up - Dissertation
 
-In the event of serious infrastructure or social disruption as a result of the Year 2000 problem, it may not be possible to keep to this schedule. However, I suspect that, if such an event occurs and lasts a significant length of time, the University will have no choice but to temporarily close down, and the submission deadlines will probably be postponed.
+                                                                   In the event of serious infrastructure or social disruption as a result of the Year 2000 problem, it may not be possible to keep to this schedule. However, I suspect that, if such an event occurs and lasts a significant length of time, the University will have no choice but to temporarily close down, and the submission deadlines will probably be postponed.
 
 ### Footnotes:
 
-<sup>1</sup>In fact the earliest form of performance log pre-dates electronic computers - the pianola was invented in 1896.
+                                                                  <sup>1</sup>In fact the earliest form of performance log pre-dates electronic computers - the pianola was invented in 1896.
 
-<sup>2</sup>Annotated Braille might help sighted musicians to learn Braille music, but this is not a requirement.
+                                                                  <sup>2</sup>Annotated Braille might help sighted musicians to learn Braille music, but this is not a requirement.
 
-<sup>3</sup>In the first prototype, the parser output was a sequence of instruction objects with arbitrary `execute()` methods, and it was possible to insert objects back upstream. This proved unnecessary and unwieldy.
+                                                                  <sup>3</sup>In the first prototype, the parser output was a sequence of instruction objects with arbitrary `execute()` methods, and it was possible to insert objects back upstream. This proved unnecessary and unwieldy.
 
-<sup>4</sup>Fuzzy logic could be used for this. If the fuzzy rules are good enough then it may be possible to evaluate linearly without backtracking (break whenever the centroid exceeds a threshold).
+                                                                  <sup>4</sup>Fuzzy logic could be used for this. If the fuzzy rules are good enough then it may be possible to evaluate linearly without backtracking (break whenever the centroid exceeds a threshold).
 
-<sup>5</sup>More than one language in the same piece of music is common, but the main language’s transcription method is normally used consistently even for foreign words.
+                                                                  <sup>5</sup>More than one language in the same piece of music is common, but the main language’s transcription method is normally used consistently even for foreign words.
 
-<sup>6</sup>It is a mistake to insist on a single character set for everything, since there is no perfect character set (eg. Unicode fails to support a large number of Indic and Taiwanese characters).
+                                                                  <sup>6</sup>It is a mistake to insist on a single character set for everything, since there is no perfect character set (eg. Unicode fails to support a large number of Indic and Taiwanese characters).
 
-<sup>7</sup>If the barlines are not synchronous then some other unit length of time that can stand for a bar has to be used. Asynchronous barlines (and multiple simultaneous time signatures) are not always *avante-garde* - they are used in the minuet from Mozart’s opera *Don Giovanni*, for example.
+                                                                  <sup>7</sup>If the barlines are not synchronous then some other unit length of time that can stand for a bar has to be used. Asynchronous barlines (and multiple simultaneous time signatures) are not always *avante-garde* - they are used in the minuet from Mozart’s opera *Don Giovanni*, for example.
 
-<sup>8</sup>The actual implementation uses “end format2” rather than “end format”. This is because flex produced a lexer that didn’t work, and neither myself nor my supervisor found a fault in my lex file, so we suspected a bug in flex. Adding a “2” somehow worked around it.
+                                                                  <sup>8</sup>The actual implementation uses “end format2” rather than “end format”. This is because flex produced a lexer that didn’t work, and neither myself nor my supervisor found a fault in my lex file, so we suspected a bug in flex. Adding a “2” somehow worked around it.
 
-<sup>9</sup>Comparing numerically if possible (using fractions), otherwise lexicographically. It did not prove necessary to support arbitrary user-specified comparison functions, but the implementation is such that these can easily be added.
+                                                                  <sup>9</sup>Comparing numerically if possible (using fractions), otherwise lexicographically. It did not prove necessary to support arbitrary user-specified comparison functions, but the implementation is such that these can easily be added.
 
-<sup>10</sup>On a supercomputer, the groups could conceivably be processed in parallel (and outputs subsequently collated), since there are rarely dependencies between them. However, a job large enough to warrant this is likely to consist of many pieces, and it would be more efficient to parallelise at *that* level (perhaps using distributed processing).
+                                                                  <sup>10</sup>On a supercomputer, the groups could conceivably be processed in parallel (and outputs subsequently collated), since there are rarely dependencies between them. However, a job large enough to warrant this is likely to consist of many pieces, and it would be more efficient to parallelise at *that* level (perhaps using distributed processing).
 
-<sup>11</sup>In an expression of the form “A and B” where A is known to be false, or “A or B” where A is known to be true, B need not be evaluated because the final result is already known, so it becomes debatable whether or not the attributes mentioned in B should be counted as “checked”. Since A could be a guard condition on whether B makes sense (eg. “type is note and octave is 3”), the design states that expressions are evaluated left-to-right and that attributes not evaluated are not counted as checked.
+                                                                  <sup>11</sup>In an expression of the form “A and B” where A is known to be false, or “A or B” where A is known to be true, B need not be evaluated because the final result is already known, so it becomes debatable whether or not the attributes mentioned in B should be counted as “checked”. Since A could be a guard condition on whether B makes sense (eg. “type is note and octave is 3”), the design states that expressions are evaluated left-to-right and that attributes not evaluated are not counted as checked.
 
-<sup>12</sup>Wrapping a “foreach part” within a “foreach bar” in this way assumes that the barlines are synchronised in all parts, which is not necessarily the case. However, if the output format cannot express asynchronous barlines then it is reasonable to assume that they are synchronised, at the risk of getting a mess when they’re not.
+                                                                  <sup>12</sup>Wrapping a “foreach part” within a “foreach bar” in this way assumes that the barlines are synchronised in all parts, which is not necessarily the case. However, if the output format cannot express asynchronous barlines then it is reasonable to assume that they are synchronised, at the risk of getting a mess when they’re not.
 
-<sup>13</sup>To prevent confusion with these “blocks” and “blocks of code”, this discussion calls “blocks of code” *constructs*.
+                                                                  <sup>13</sup>To prevent confusion with these “blocks” and “blocks of code”, this discussion calls “blocks of code” *constructs*.
 
-<sup>14</sup>American spelling is also acceptable.
+                                                                  <sup>14</sup>American spelling is also acceptable.
 
-<sup>15</sup>A six-dot Braille cell has three rows and two columns; the dots in the first row are conventionally numbered 1, 2 and 3 and those in the second row 4, 5 and 6. An eight-dot Braille cell (sometimes used in America) additionally has dots 7 and 8 below, thus:
+                                                                  <sup>15</sup>A six-dot Braille cell has three rows and two columns; the dots in the first row are conventionally numbered 1, 2 and 3 and those in the second row 4, 5 and 6. An eight-dot Braille cell (sometimes used in America) additionally has dots 7 and 8 below, thus:
 
 1 - 4
 
@@ -2256,62 +2291,73 @@ In the event of serious infrastructure or social disruption as a result of the Y
 
 7 - 8
 
-The implementation can handle cells with *any* number of dots in case more are added in future, but the specification of dot patterns would have to change (and so would the protocols of embossers).
+                                                                   The implementation can handle cells with *any* number of dots in case more are added in future, but the specification of dot patterns would have to change (and so would the protocols of embossers).
 
-<sup>16</sup>Notice, though, that there are two different namespaces - the sign category “accidental” need not match the tuple attribute “accidental”, and the sign name “sharp” need not match the tuple value “sharp”. This has to be the case otherwise the signs would be too strongly limited by the tuple space.
+                                                                  <sup>16</sup>Notice, though, that there are two different namespaces - the sign category “accidental” need not match the tuple attribute “accidental”, and the sign name “sharp” need not match the tuple value “sharp”. This has to be the case otherwise the signs would be too strongly limited by the tuple space.
 
-<sup>17</sup>It did not prove necessary to support radices other than 10, but this could be done by varying the length of the list.
+                                                                  <sup>17</sup>It did not prove necessary to support radices other than 10, but this could be done by varying the length of the list.
 
-<sup>18</sup>It is possible to support wider pad signs and switch to an alternative sign when the remaining space becomes too narrow, but this proved unnecessary.
+                                                                  <sup>18</sup>It is possible to support wider pad signs and switch to an alternative sign when the remaining space becomes too narrow, but this proved unnecessary.
 
-<sup>19</sup>During the course of the project I was able to upgrade to XEmacs 21, and found that a similar feature (htmlize-buffer) had already been implemented.
+                                                                  <sup>19</sup>During the course of the project I was able to upgrade to XEmacs 21, and found that a similar feature (htmlize-buffer) had already been implemented.
 
-<sup>20</sup>For comparisons (like < and > ) it is valid to factor out the greatest common divisors of the numerators and the denominators before cross-multiplying, but this is not always helpful.
+                                                                  <sup>20</sup>For comparisons (like < and > ) it is valid to factor out the greatest common divisors of the numerators and the denominators before cross-multiplying, but this is not always helpful.
 
-<sup>21</sup>Namespaces are a feature of modern C++ - they are like Java packages.
+                                                                  <sup>21</sup>Namespaces are a feature of modern C++ - they are like Java packages.
 
-<sup>22</sup>Map is an STL class. The GNU implementation uses red-black trees.
+                                                                  <sup>22</sup>Map is an STL class. The GNU implementation uses red-black trees.
 
-<sup>23</sup>The STL appends to lists in constant time.
+                                                                  <sup>23</sup>The STL appends to lists in constant time.
 
-<sup>24</sup>Since the nature of the foreach command implies that tuples that are visible are constant in the attributes that have been sorted on so far, it is not strictly necessary to add to a list; a single sort order would suffice. The list is retained for safety in any future expansion of the foreach command that does not guarantee so much. It is not a performance bottleneck.
+                                                                  <sup>24</sup>Since the nature of the foreach command implies that tuples that are visible are constant in the attributes that have been sorted on so far, it is not strictly necessary to add to a list; a single sort order would suffice. The list is retained for safety in any future expansion of the foreach command that does not guarantee so much. It is not a performance bottleneck.
 
-<sup>25</sup>Grade 1 is a letter-by-letter substitution; grade 2 has “contractions”, or abbreviations.
+                                                                  <sup>25</sup>Grade 1 is a letter-by-letter substitution; grade 2 has “contractions”, or abbreviations.
 
-<sup>26</sup>Saqib provided data files for English grades 1 and 2, for German grade 1 (including accents), and for US computer Braille.
+                                                                  <sup>26</sup>Saqib provided data files for English grades 1 and 2, for German grade 1 (including accents), and for US computer Braille.
 
-<sup>27</sup>There is a system that represents the kanji directly, but I was unable to obtain information about it, nor could I find anything on the Braille systems of other Asian languages.
+                                                                  <sup>27</sup>There is a system that represents the kanji directly, but I was unable to obtain information about it, nor could I find anything on the Braille systems of other Asian languages.
 
-<sup>28</sup>The annotated output is necessarily cluttered; to read it, note that each label applies to the Braille cell that is vertically aligned with its *leftmost* edge.
+                                                                  <sup>28</sup>The annotated output is necessarily cluttered; to read it, note that each label applies to the Braille cell that is vertically aligned with its *leftmost* edge.
 
-<sup>29</sup>This is what was expressed in the original MuseData file, but it disagrees with the Henle Urtext Ausgabe edition of the piece, which puts the clef before the barline.
+                                                                  <sup>29</sup>This is what was expressed in the original MuseData file, but it disagrees with the Henle Urtext Ausgabe edition of the piece, which puts the clef before the barline.
 
-<sup>30</sup>133MHz Cyrix CPU, 32Mb RAM, Linux. The L2 cache was disabled because the motherboard (one of the notorious 1997 “VX Pro” boards that put several dealers out of business[15]) struggled at 66MHz. I later found that slowing it to 60MHz (and the CPU to 120MHz) allowed the L2 cache to be re-enabled safely - this led to a 30% speed increase despite the slower CPU, demonstrating that the program is largely bound by medium-range memory access.
+                                                                  <sup>30</sup>133MHz Cyrix CPU, 32Mb RAM, Linux. The L2 cache was disabled because the motherboard (one of the notorious 1997 “VX Pro” boards that put several dealers out of business[15]) struggled at 66MHz. I later found that slowing it to 60MHz (and the CPU to 120MHz) allowed the L2 cache to be re-enabled safely - this led to a 30% speed increase despite the slower CPU, demonstrating that the program is largely bound by medium-range memory access.
 
-<sup>31</sup>Section-by-section Braille was used as bar-over-bar is unwieldy in symphonic scores. Standard Braille page dimensions (40 by 25) were used for the page count.
+                                                                  <sup>31</sup>Section-by-section Braille was used as bar-over-bar is unwieldy in symphonic scores. Standard Braille page dimensions (40 by 25) were used for the page count.
 
-<sup>32</sup>450MHz Pentium III, 256Mb RAM, Linux. Thanks to Moray Allan for the use of this.
+                                                                  <sup>32</sup>450MHz Pentium III, 256Mb RAM, Linux. Thanks to Moray Allan for the use of this.
 
-<sup>33</sup>Lines that do not generate tuples include comments and general settings as well as unsupported events.
+                                                                  <sup>33</sup>Lines that do not generate tuples include comments and general settings as well as unsupported events.
 
-<sup>34</sup>such as the Amiga Module format, which is sample-based but musical data can sometimes be extracted
+                                                                  <sup>34</sup>such as the Amiga Module format, which is sample-based but musical data can sometimes be extracted
 
-<sup>35</sup>I have experimented with such arbitration by writing a Prolog program that builds a DAG of attribute converters and outputs code in the language of the Japanese Fifth Generation Project, KL/1[1]. The experiment had limited success due to the problem of how to generate suitable attribute converters (some of which need to deal with a plurality of tuples simultaneously), but it did express the nominalisation problem in a different form.
+                                                                  <sup>35</sup>I have experimented with such arbitration by writing a Prolog program that builds a DAG of attribute converters and outputs code in the language of the Japanese Fifth Generation Project, KL/1[1]. The experiment had limited success due to the problem of how to generate suitable attribute converters (some of which need to deal with a plurality of tuples simultaneously), but it did express the nominalisation problem in a different form.
 
-<sup>36</sup>In an informal conversation, a representative of a major music publisher told me that, if software existed to translate their in-house music language into Braille, they would be happy to run it. This alone could solve the Braille music shortage problem.
+                                                                  <sup>36</sup>In an informal conversation, a representative of a major music publisher told me that, if software existed to translate their in-house music language into Braille, they would be happy to run it. This alone could solve the Braille music shortage problem.
 
-<sup>37</sup>The X server is designed to run in user mode, without direct access to the video hardware. Since such direct access is required in order to provide a responsive virtual desktop, the server does not contain the code to do this and wouldn’t be able to even if I could run it as Administrator.
+                                                                  <sup>37</sup>The X server is designed to run in user mode, without direct access to the video hardware. Since such direct access is required in order to provide a responsive virtual desktop, the server does not contain the code to do this and wouldn’t be able to even if I could run it as Administrator.
 
-<sup>38</sup>Technically, this is not entirely true, unless a grand staff is counted as one part and *avant-garde* notation is ignored.
+                                                                  <sup>38</sup>Technically, this is not entirely true, unless a grand staff is counted as one part and *avant-garde* notation is ignored.
 
-Copyright and Trademarks:
-All material © Silas S. Brown unless otherwise stated.
-Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
-Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
-PostScript is a registered trademark of Adobe Systems Inc.
-Python is a trademark of the Python Software Foundation.
-Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
-Unicode is a registered trademark of Unicode, Inc. in the United States and other countries.
-Unix is a trademark of The Open Group.
-Windows is a registered trademark of Microsoft Corp.
-Any other [trademarks](https://ssb22.user.srcf.net/trademarks.html) I mentioned without realising are trademarks of their respective holders.
+                                                                  Copyright and Trademarks:
+
+                                                                   All material © Silas S. Brown unless otherwise stated.
+
+                                                                  Java is a registered trademark of Oracle Corporation in the US and possibly other countries.
+
+                                                                  Linux is the registered trademark of Linus Torvalds in the U.S. and other countries.
+
+                                                                  PostScript is a registered trademark of Adobe Systems Inc.
+
+                                                                  Python is a trademark of the Python Software Foundation.
+
+                                                                  Sibelius is a registered trademark of Avid Technology, Inc. or its subsidiaries.
+
+                                                                  Unicode is a registered trademark of Unicode, Inc. in the United States and other countries.
+
+                                                                  Unix is a trademark of The Open Group.
+
+                                                                  Windows is a registered trademark of Microsoft Corp.
+
+                                                                  Any other [trademarks](https://ssb22.user.srcf.net/trademarks.html) I mentioned without realising are trademarks of their respective holders.
+
