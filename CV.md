@@ -26,7 +26,7 @@ Also worked some days for Grapeshot Ltd resulting in the above Oracle position a
 
 **Cambridge University Hospital Pathology Lab**: volunteer coded [a bioinformatics tool](https://github.com/ssb22/PrimerPooler/) in C (bit patterns & OpenMP), cited in 50+ genetics papers, accepted by FreeBSD biology team
 
-**IBSA**: volunteer coded for charitable work for the blind: [DAISY book generator](https://github.com/ssb22/indexer?tab=readme-ov-file#anemone-daisy-maker) (synchronised speech & text) + catalogue listers (JSON, OPDS, ONIX) using FastAPI/pytest & AWS Lambda
+**IBSA**: volunteer coded for charitable work for the blind: [DAISY book generator](https://github.com/ssb22/indexer?tab=readme-ov-file#anemone-daisy-maker) (synchronised speech & text) + catalogues (used JSON, OPDS, ONIX, FastAPI/pytest, AWS Lambda, Svelte)
 
 **Wenlin Institute**: improved their C software for learning Chinese, especially [stack displays](wenlin.md), Windows CE & Android ports
 
