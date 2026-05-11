@@ -3,7 +3,7 @@ from https://ssb22.user.srcf.net/papers/ (also [mirrored on GitLab Pages](https:
 
 # Academic Publications
 * Silas S. Brown, Yun-Wen Chen, Ming Wang, Alexandra Clipson, Eguzkine Ochoa, and Ming-Qing Du (2017). PrimerPooler: automated primer pooling to prepare library for targeted sequencing. Biology Methods and Protocols. Oxford University Press. 2(1). doi:[10.1093/biomethods/bpx006](http://doi.org/10.1093/biomethods/bpx006)
-* PhD thesis: Conversion of notations. Technical report UCAM-CL-TR-591, University of Cambridge, Computer Laboratory, June 2004. [PDF format](http://www.cl.cam.ac.uk/TechReports/UCAM-CL-TR-591.pdf)
+* PhD thesis: Conversion of notations. Technical report UCAM-CL-TR-591, University of Cambridge, Computer Laboratory, June 2004. [PDF format](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-591.pdf)
 * Silas S. Brown and Peter Robinson. Transformation frameworks and their relevance in universal design. *Universal Access in the Information Society*, 3.3-4:209-223, 2004. [PDF format](http://www.cl.cam.ac.uk/~pr10/publications/uais04b.pdf)
 * Silas S. Brown. Web Annotation with Modified-Yarowsky and Other Algorithms. [Overload issue 112](https://accu.org/journals/overload/20/112/overload112.pdf) (December 2012) pp.4-7 (PDF pp.5-8, [HTML version](https://accu.org/journals/overload/20/112/brown_1881/))
 * Jose Torres-Pruñonosa, Miquel-Angel Plaza-Navas and Silas S. Brown (2022). Jehovah’s Witnesses’ adoption of digitally-mediated services during Covid-19 pandemic. Cogent Social Sciences. Taylor & Francis. 8(1). doi:[10.1080/23311886.2022.2071034](https://doi.org/10.1080/23311886.2022.2071034)  (also [in Spanish](https://doi.org/10.20350/digitalCSIC/14663))
