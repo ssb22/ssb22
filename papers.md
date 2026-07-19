@@ -22,7 +22,7 @@ from https://ssb22.user.srcf.net/papers/ (also [mirrored on GitLab Pages](https:
 * Silas S Brown & Peter Robinson. A World Wide Web Mediator for Users with Low Vision. CHI 2001 Workshop No. 14 (Seattle, USA). [PDF format](http://www.ics.forth.gr/proj/at-hci/chi2001/files/brown.pdf)
 * Silas Brown. An Extensible System for Conversion of Musical-Notation Data to Braille Musical Notation. *Computing in Musicology*, 12:45-74, 2001.
 * [Undergraduate project dissertation](project.md) (2000)
-* I’ve also written [190+ articles in C Vu](cvu.md).
+* I’ve also written [200+ articles in C Vu](cvu.md).
 
 Copyright and Trademarks:
 All material © Silas S. Brown unless otherwise stated.
