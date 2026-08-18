@@ -12,7 +12,7 @@ Also worked some days for Grapeshot Ltd resulting in the above Oracle position a
 
 **University of Southampton** (2015). Debugged their mathematics handwriting-recognition system (in-browser Javascript), ported to Android, and introduced version control and CI/CD
 
-**Ocasta Labs: Partner** (2009–13). Developed back-end servers for a mobile marketplace + SMS-based OpenID. Used Python with CouchDB, ElasticSearch, Tornado, nginx, Celery, Selenium etc on Linux, AWS cloud infrastructure and VirtualBox.
+**Ocasta Labs: Partner** (2009–13). Developed back-end servers for a mobile marketplace + SMS-based OpenID. Used Python with CouchDB, ElasticSearch, Tornado, nginx, Celery, Selenium etc on GNU/Linux, AWS cloud infrastructure and VirtualBox.
 
 **Openwave Systems: Senior Software Engineer** (2006–2009, formerly Widerweb Ltd).  Designed C++ server to transcode websites for featurephones, used by Sprint Nextel, Vodafone, H3G etc, inspired by my [open-source Web mediator](https://github.com/ssb22/old-web-access-gateway) for print disabilities and font rendering.
 
