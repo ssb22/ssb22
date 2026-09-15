@@ -4,6 +4,8 @@ from https://ssb22.user.srcf.net/papers/cvu.html (also [mirrored on GitLab Pages
 # C Vu articles
 
 I wrote for the [ACCU.org](http://accu.org) members-only journal “C Vu” (ISSN 1354-3164, not formally peer-reviewed but well-edited) starting from 1995. I found it to be a good learning environment: if I wrote an article with a misunderstanding, someone would correct it (and the journal being members-only reduces the odds of that situation later being misjudged by an overly-hasty potential employer or similar). The journal’s style has changed a bit since the early days. Here is a list of my articles for reference.
+* Should LLM Contributions Stay Small?: C Vu, 38(4):6-7, September 2026.
+* Solving Undo’s Bug Mug: C Vu, 38(4):3-4, September 2026.
 * Running Gemma Nano in Chrome: C Vu, 38(3):3, July 2026.
 * Is Rust a Good Language for Agentic Coding?: C Vu, 38(3):6-7, July 2026.
 * Book review: Clean Code in Python by Mariano Anaya: C Vu, 38(2):19-20, May 2026.
