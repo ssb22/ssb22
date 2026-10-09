@@ -737,7 +737,7 @@ In 2024 publicity they changed “Undergraduate” simply to “Students” (剑
 
 I hope they do fix the deregistration, as being registered means the establishment helps them keep their accounts in order and handle complaints; going it alone is not recommended, which is why I had pushed them to do it properly at the beginning.
 
-The October introductory freshers’ meetup in Cambridge did not appear to happen in 2024 or 2025—they still had a freshers’ fair stand, so presumably *were* still inviting those unable to reach their in-China camps, but the stand pointed people only at a WeChat announcement account that didn’t say anything about an introductory meeting. I don’t have any information about a decision to suspend this, which seems unusual for a Cambridge club.
+In 2024 CCS suspended the October introductory freshers’ meetup in Cambridge (the conventional “squash” event held by most societies to follow up their freshers’ fair promotions), as CCS felt their “OCamp” events were now sufficient. They continued to have a fair stand inviting those unable to reach their in-China camps, but this stand pointed only at their social media accounts, with the addition of some year-specific WeChat groups, sadly increasing segregation between the years and making it no longer possible for non-freshers to use CCS to befriend Chinese arrivals in person at a time of year they’re more amenable to meeting people.
 
 They still perform an annual play with English subtitles projected for non-Chinese, and it’s usually possible to ask in advance for the script if you can’t see projector screens, or if you’d like to try following the Mandarin in [Wenlin](wenlin.md) or whatever.
 
